@@ -12,3 +12,14 @@ We welcome contributions from the community. If you have a unique rice that you'
     ```
 
 Your contribution is helping us cook up the tastiest Unix experiences around! Thanks!
+
+
+# Optional
+
+Feel free to include the Awesome Rice badge in your repo if you want to!
+
+```markdown
+[![awesome-rice-badge](https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/awesome-rice-badge.svg)](https://github.com/zemmsoares/awesome-rices)
+```
+
+[![awesome-rice-badge](https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/awesome-rice-badge.svg)](https://github.com/zemmsoares/awesome-rices)

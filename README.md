@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="assets/logo.webp" alt="Awesome Rices logo" width="150" style="margin-bottom: 30px;">  
-  <h1 style="color: white; font-size: 32px; border: none; line-height: 0.5; font-weight: bold">Awesome Rices</h1>
+  <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/logo.webp" alt="Awesome Rices logo" width="150" style="margin-bottom: 30px;">  
+  <h1 style="font-size: 32px; border: none; line-height: 0; font-weight: bold">Awesome Rices</h1>
   <p>This repository is a collection of outstanding Unix customizations.<br> Explore different user rices, get inspired, inspire us.</p>
     <div style="margin-bottom: 10px">
      <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
-  <img src="assets/awesome-rice-badge.svg" alt="awesome-rice-badge"/>
+  <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/awesome-rice-badge.svg" alt="awesome-rice-badge"/>
     </div>
     <br>
-    
 </div>
-
 
 # Table of Contents
 
