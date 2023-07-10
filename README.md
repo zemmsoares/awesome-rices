@@ -40,6 +40,7 @@
 - [Erennedirlo](https://github.com/Erennedirlo/gruvbox-dotfiles)
 - [Sinomor](https://github.com/Sinomor/dots)
 - [sudo-harun](https://github.com/sudo-harun/dotfiles/tree/main)
+- [justleoo](https://github.com/justleoo/dotfiles)
 
 ### dwm
 
@@ -51,6 +52,7 @@
 ### gnome
 
 - [GabrielTenma](https://github.com/GabrielTenma/dotfiles-gnm)
+- [Comiclyy](https://github.com/Comiclyy/dotfiles/tree/dotfiles-gnome)
 
 ### herbstluftwm
 
