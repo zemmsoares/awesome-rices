@@ -62,6 +62,7 @@
 - [hobosyo](https://github.com/hobosyo/pointfichiers/tree/hyprland-kanagawa)
 - [maxtaran2010](https://github.com/maxtaran2010/hyprland-rice)
 - [Redyf](https://github.com/Redyf/nixdots)
+- [end-4](https://github.com/end-4/dots-hyprland/)
 
 ### i3
 
