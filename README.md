@@ -11,52 +11,81 @@
 
 # Table of Contents
 
-- [i3](#i3)
-- [yabai](#yabai)
-- [herbstluftwm](#herbstluftwm)
+- [awesome](#awesome)
 - [bspwm](#bspwm)
 - [dwm](#dwm)
-- [awesome](#awesome)
+- [gnome](#gnome)
+- [herbstluftwm](#herbstluftwm)
+- [hyprland](#hyprland)
+- [i3](#i3)
+- [riverwm](#riverwm)
+- [xfce](#xfce)
+- [yabai](#yabai)
 - [Contribute](#contribute)
-
-<br>
 
 # Rices
 
-### i3
+### awesome
 
-- [Vallen217](https://github.com/Vallen217/dotfiles)
-- [zemmsoares](https://github.com/zemmsoares/.dotfiles)
+- [Amitabha37377](https://github.com/Amitabha37377/Awesome_Dotfiles)
+- [CmrCrabs](https://github.com/CmrCrabs/dotfiles)
+- [d-solis](https://github.com/d-solis/dotfiles/tree/awesome)
+- [HoNamDuong](https://github.com/HoNamDuong/.dotfiles)
+- [Kasper24](https://github.com/Kasper24/KwesomeDE)
+- [Spaxly](https://github.com/Spaxly/espresso)
 
-### yabai
+### bspwm
 
-- [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles)
+- [adilhyz](https://github.com/adilhyz/dotfiles-v1)
+- [Erennedirlo](https://github.com/Erennedirlo/gruvbox-dotfiles)
+- [Sinomor](https://github.com/Sinomor/dots)
+- [sudo-harun](https://github.com/sudo-harun/dotfiles/tree/main)
+
+### dwm
+
+- [Dorovich](https://github.com/Dorovich/dotfiles)
+- [juacq97](https://github.com/juacq97/dotfiles)
+- [raihanadf](https://github.com/raihanadf/dotfiles)
+- [seeingangelz](https://github.com/seeingangelz/dotfiles)
+
+### gnome
+
+- [GabrielTenma](https://github.com/GabrielTenma/dotfiles-gnm)
 
 ### herbstluftwm
 
 - [breddie-normie](https://github.com/breddie-normie/dotfiles)
 
-### bspwm
+### Hyprland
 
-- [Erennedirlo](https://github.com/Erennedirlo/gruvbox-dotfiles)
+- [h1tarxeth](https://github.com/h1tarxeth/Dots_infinity_horizon)
+- [hobosyo](https://github.com/hobosyo/pointfichiers/tree/hyprland-kanagawa)
+- [maxtaran2010](https://github.com/maxtaran2010/hyprland-rice)
+- [Redyf](https://github.com/Redyf/nixdots)
 
-### dwm
+### i3
 
-- [raihanadf](https://github.com/raihanadf/dotfiles)
-- [juacq97](https://github.com/juacq97/dotfiles)
-- [Dorovich](https://github.com/Dorovich/dotfiles)
+- [gabriel-suela](https://github.com/gabriel-suela/dotfiles-v2)
+- [Vallen217](https://github.com/Vallen217/dotfiles)
+- [zemmsoares](https://github.com/zemmsoares/.dotfiles)
 
-### awesome
+### riverwm
 
-- [Amitabha37377](https://github.com/Amitabha37377/Awesome_Dotfiles)
+- [theCode-Breaker](https://github.com/theCode-Breaker/riverwm)
 
-<br>
+### xfce
+
+- [fathulfahmy](https://github.com/fathulfahmy/dotfiles-linux/tree/main)
+- [mehedirm6244](https://github.com/mehedirm6244/Miserable_Xfce/tree/Tokyonight)
+
+### yabai
+
+- [FelixKratz](https://github.com/FelixKratz/dotfiles)
+- [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles)
 
 # Contribute
 
 We welcome contributions from the community. If you have a unique rice that you'd like to showcase, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
-
-<br>
 
 # License
 
