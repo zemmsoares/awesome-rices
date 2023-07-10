@@ -33,6 +33,7 @@
 - [HoNamDuong](https://github.com/HoNamDuong/.dotfiles)
 - [Kasper24](https://github.com/Kasper24/KwesomeDE)
 - [Spaxly](https://github.com/Spaxly/espresso)
+- [TorchedSammy](https://github.com/TorchedSammy/dotfiles)
 
 ### bspwm
 
