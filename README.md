@@ -66,6 +66,7 @@
 - [maxtaran2010](https://github.com/maxtaran2010/hyprland-rice)
 - [Redyf](https://github.com/Redyf/nixdots)
 - [end-4](https://github.com/end-4/dots-hyprland/)
+- [ozwaldorf](https://github.com/ozwaldorf/dotfiles)
 
 ### i3
 
