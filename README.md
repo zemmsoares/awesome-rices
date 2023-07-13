@@ -40,6 +40,7 @@
 - [CmrCrabs](https://github.com/CmrCrabs/dotfiles)
 - [d-solis](https://github.com/d-solis/dotfiles/tree/awesome)
 - [elenapan](https://github.com/elenapan/dotfiles)
+- [frapdotbm](https://github.com/frapdotbmp/dotfiles)
 - [Gwynsav](https://github.com/Gwynsav/gwdawful/tree/master)
 - [HoNamDuong](https://github.com/HoNamDuong/.dotfiles)
 - [Kasper24](https://github.com/Kasper24/KwesomeDE)
@@ -58,6 +59,7 @@
 
 - [adilhyz](https://github.com/adilhyz/dotfiles-v1)
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/bspwm)
+- [DominatorXS](https://github.com/DominatorXS/LinuxDotz)
 - [Erennedirlo](https://github.com/Erennedirlo/gruvbox-dotfiles)
 - [Gwynsav](https://github.com/Gwynsav/messydots)
 - [hlissner](https://github.com/hlissner/dotfiles)
@@ -68,6 +70,7 @@
 - [rklyz](https://github.com/rklyz/.files)
 - [Sinomor](https://github.com/Sinomor/dots)
 - [Sophed](https://github.com/Sophed/dotfiles)
+- [Spaxly](https://github.com/Spaxly/dotfiles)
 - [star-isc](https://github.com/star-isc/Dotfiles)
 - [sudo-harun](https://github.com/sudo-harun/dotfiles/tree/main)
 - [valb-mig](https://github.com/valb-mig/.dotfiles)
@@ -128,7 +131,9 @@
 ### i3wm
 
 - [b1337xyz](https://github.com/b1337xyz/config/tree/xp)
+- [BIBJAW](https://github.com/BIBJAW/Final_Rice)
 - [bibjaw99](https://github.com/bibjaw99/workstation)
+- [bryant-the-coder](https://github.com/bryant-the-coder/dotfiles)
 - [gabriel-suela](https://github.com/gabriel-suela/dotfiles-v2)
 - [sommaa](https://github.com/sommaa/Mantis)
 - [SunoBB](https://github.com/SunoBB/dot)
@@ -178,11 +183,13 @@
 
 ### Xmonad
 
+- [Icy-Thought](https://github.com/Icy-Thought/snowflake)
 - [TheMidnightShow](https://github.com/TheMidnightShow/dotfiles)
 
 ### Yabai
 
 - [FelixKratz](https://github.com/FelixKratz/dotfiles)
+- [QRX53](https://github.com/QRX53/dotfiles)
 - [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles)
 
 # Contribute
