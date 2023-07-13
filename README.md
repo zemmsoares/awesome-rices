@@ -63,6 +63,7 @@
 - [hlissner](https://github.com/hlissner/dotfiles)
 - [JakeGinesin](https://github.com/JakeGinesin/dotfiles)
 - [justleoo](https://github.com/justleoo/dotfiles)
+- [Narmis-E](https://github.com/Narmis-E/bspwm-catppuccin)
 - [probe2k](https://github.com/probe2k/bspwm_rice)
 - [rklyz](https://github.com/rklyz/.files)
 - [Sinomor](https://github.com/Sinomor/dots)
@@ -114,6 +115,7 @@
 - [Knightfall01](https://github.com/Knightfall01/Hyprland-i3/tree/master)
 - [MathisP75](https://github.com/MathisP75/summer-day-and-night)
 - [maxtaran2010](https://github.com/maxtaran2010/hyprland-rice)
+- [Narmis-E](https://github.com/Narmis-E/hyprland-dots)
 - [ozwaldorf](https://github.com/ozwaldorf/dotfiles)
 - [prasanthrangan](https://github.com/prasanthrangan/hyprdots)
 - [Redyf](https://github.com/Redyf/nixdots)
@@ -148,6 +150,7 @@
 ### Openbox
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/openbox)
+- [Narmis-E](https://github.com/Narmis-E/openbox-everforest)
 - [owl4ce](https://github.com/owl4ce/dotfiles/tree/ng)
 
 ### Qtile
