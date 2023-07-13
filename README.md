@@ -150,8 +150,8 @@
 ### Openbox
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/openbox)
-- [owl4ce](https://github.com/owl4ce/dotfiles/tree/ng)
 - [Narmis-E](https://github.com/Narmis-E/openbox-everforest)
+- [owl4ce](https://github.com/owl4ce/dotfiles/tree/ng)
 
 ### Qtile
 
