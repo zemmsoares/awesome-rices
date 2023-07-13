@@ -11,33 +11,44 @@
 
 # Table of Contents
 
-- [awesome](#awesome)
+- [Awesomewm](#Awesomewm)
 - [bspwm](#bspwm)
+- [DkWM](#DkWM)
 - [dwm](#dwm)
-- [gnome](#gnome)
-- [herbstluftwm](#herbstluftwm)
-- [hyprland](#hyprland)
-- [i3](#i3)
-- [lightdm](#lightdm)
-- [openbox](#openbox)
-- [qtile](#qtile)
-- [riverwm](#riverwm)
-- [sway](#sway)
-- [xfce](#xfce)
-- [yabai](#yabai)
+- [Gnome](#Gnome)
+- [Herbstluftwm](#Herbstluftwm)
+- [Hyprland](#Hyprland)
+- [i3wm](#i3wm)
+- [KDE](#KDE)
+- [LeftWM](#LeftWM)
+- [Lightdm](#Lightdm)
+- [Openbox](#Openbox)
+- [Qtile](#Qtile)
+- [Riverwm](#Riverwm)
+- [Sway](#Sway)
+- [Xfce](#Xfce)
+- [Yabai](#Yabai)
 - [Contribute](#contribute)
 
 # Rices
 
-### awesome
+### Awesomewm
 
+- [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/awesomewm)
 - [Amitabha37377](https://github.com/Amitabha37377/Awesome_Dotfiles)
 - [chadcat7](https://github.com/chadcat7/crystal)
 - [CmrCrabs](https://github.com/CmrCrabs/dotfiles)
 - [d-solis](https://github.com/d-solis/dotfiles/tree/awesome)
+- [elenapan](https://github.com/elenapan/dotfiles)
 - [Gwynsav](https://github.com/Gwynsav/gwdawful/tree/master)
 - [HoNamDuong](https://github.com/HoNamDuong/.dotfiles)
 - [Kasper24](https://github.com/Kasper24/KwesomeDE)
+- [Manas140](https://github.com/Manas140/dotfiles)
+- [PassiveLemon](https://github.com/PassiveLemon/lemonix)
+- [rklyz](https://github.com/rklyz/MyRice)
+- [rxyhn](https://github.com/rxyhn/yoru)
+- [saimoomedits](https://github.com/saimoomedits/dotfiles)
+- [Savecoders](https://github.com/Savecoders/dotfiles)
 - [Spaxly](https://github.com/Spaxly/espresso)
 - [Stardust-kyun](https://github.com/Stardust-kyun/dotfiles)
 - [TorchedSammy](https://github.com/TorchedSammy/dotfiles)
@@ -48,39 +59,53 @@
 - [adilhyz](https://github.com/adilhyz/dotfiles-v1)
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/bspwm)
 - [Erennedirlo](https://github.com/Erennedirlo/gruvbox-dotfiles)
-- [hlissner]([bspwm](https://github.com/hlissner/dotfiles))
+- [Gwynsav](https://github.com/Gwynsav/messydots)
+- [hlissner](https://github.com/hlissner/dotfiles)
 - [JakeGinesin](https://github.com/JakeGinesin/dotfiles)
 - [justleoo](https://github.com/justleoo/dotfiles)
+- [probe2k](https://github.com/probe2k/bspwm_rice)
+- [rklyz](https://github.com/rklyz/.files)
 - [Sinomor](https://github.com/Sinomor/dots)
 - [Sophed](https://github.com/Sophed/dotfiles)
 - [star-isc](https://github.com/star-isc/Dotfiles)
 - [sudo-harun](https://github.com/sudo-harun/dotfiles/tree/main)
 - [valb-mig](https://github.com/valb-mig/.dotfiles)
+- [Weirdchupacabra](https://github.com/Weirdchupacabra/void-dotfiles)
+
+### DkWM
+
+- [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/dkwm)
 
 ### dwm
 
+- [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/dwm)
 - [Dorovich](https://github.com/Dorovich/dotfiles)
+- [Gwynsav](https://github.com/Gwynsav/dwmrice)
 - [juacq97](https://github.com/juacq97/dotfiles)
 - [nxb1t](https://github.com/nxb1t/dwm-dots)
 - [raihanadf](https://github.com/raihanadf/dotfiles)
 - [seeingangelz](https://github.com/seeingangelz/dotfiles)
 
-### gnome
+### Gnome
 
+- [1amSimp1e](https://github.com/1amSimp1e/dots)
 - [AviVarma](https://github.com/AviVarma/Dotfiles)
 - [Comiclyy](https://github.com/Comiclyy/dotfiles/tree/dotfiles-gnome)
 - [GabrielTenma](https://github.com/GabrielTenma/dotfiles-gnm)
 - [NeuronSooup](https://github.com/NeuronSooup/Gnome-topbar-le-dots)
 
-### herbstluftwm
+### Herbstluftwm
 
 - [breddie-normie](https://github.com/breddie-normie/dotfiles)
+- [nuxshed](https://github.com/nuxshed/dotfiles)
 - [scourii](https://github.com/scourii/.dotfiles/tree/main)
 
 ### Hyprland
 
+- [1amSimp1e](https://github.com/1amSimp1e/dots)
 - [ahujaankush](https://github.com/ahujaankush/AetherizedDots)
 - [dankdezpair](https://github.com/dankdezpair/hypr.files-V2)
+- [debuggyo](https://github.com/debuggyo/dots)
 - [dragoshr1234](https://github.com/dragoshr1234/hyprland-rotaru)
 - [end-4](https://github.com/end-4/dots-hyprland/)
 - [h1tarxeth](https://github.com/h1tarxeth/Dots_infinity_horizon)
@@ -93,50 +118,66 @@
 - [prasanthrangan](https://github.com/prasanthrangan/hyprdots)
 - [Redyf](https://github.com/Redyf/nixdots)
 - [RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config)
+- [SimplyVoid](https://github.com/SimplyVoid/hyprland-dots)
 - [Spagett1](https://github.com/Spagett1/dotfiles)
 - [Stetsed](https://github.com/Stetsed/.dotfiles)
+- [Yorubae](https://github.com/Yorubae/wayland-dotfiles)
 
-### i3
+### i3wm
 
 - [b1337xyz](https://github.com/b1337xyz/config/tree/xp)
 - [bibjaw99](https://github.com/bibjaw99/workstation)
 - [gabriel-suela](https://github.com/gabriel-suela/dotfiles-v2)
+- [sommaa](https://github.com/sommaa/Mantis)
+- [SunoBB](https://github.com/SunoBB/dot)
+- [TKK13909](https://github.com/TKK13909/dotfiles)
 - [Vallen217](https://github.com/Vallen217/dotfiles)
 - [zemmsoares](https://github.com/zemmsoares/.dotfiles)
 
-### lightdm
+### KDE
+
+- [ComplexPlatform](https://github.com/ComplexPlatform/KDE-dotfiles)
+
+### LeftWM
+
+- [almqv](https://github.com/almqv/dotfiles)
+### Lightdm
 
 - [TheWisker](https://github.com/TheWisker/Shikai)
 
-### openbox
+### Openbox
 
+- [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/openbox)
 - [owl4ce](https://github.com/owl4ce/dotfiles/tree/ng)
 
-### qtile
+### Qtile
 
 - [Darkkal44](https://github.com/Darkkal44/Cozytile)
 - [diegorezm](https://github.com/diegorezm/dotfiles-d/tree/master)
+- [Fluffy-Bean](https://github.com/Fluffy-Bean/dots)
 - [Hamza12700](https://github.com/Hamza12700/DotFiles)
-### riverwm
+### Riverwm
 
 - [theCode-Breaker](https://github.com/theCode-Breaker/riverwm)
 
-### sway
+### Sway
 
+- [hifinerd](https://github.com/hifinerd/lugia-sway-dots)
 - [KubqoA](https://github.com/KubqoA/dotfiles)
 - [RicArch97](https://github.com/RicArch97/nixos-config)
+- [Sunglas](https://github.com/Sunglas/laptop-dots-wl)
 - [viperML](https://github.com/viperML/dotfiles)
 
-### xfce
+### Xfce
 
 - [fathulfahmy](https://github.com/fathulfahmy/dotfiles-linux/tree/main)
 - [mehedirm6244](https://github.com/mehedirm6244/Miserable_Xfce/tree/Tokyonight)
 
-### xmonad
+### Xmonad
 
 - [TheMidnightShow](https://github.com/TheMidnightShow/dotfiles)
 
-### yabai
+### Yabai
 
 - [FelixKratz](https://github.com/FelixKratz/dotfiles)
 - [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles)
