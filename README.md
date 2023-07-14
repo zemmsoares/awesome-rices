@@ -138,6 +138,7 @@
 - [b1337xyz](https://github.com/b1337xyz/config/tree/xp)
 - [BIBJAW](https://github.com/BIBJAW/Final_Rice)
 - [bibjaw99](https://github.com/bibjaw99/workstation)
+- [Blxckmage](https://github.com/Blxckmage/dotfiles)
 - [bryant-the-coder](https://github.com/bryant-the-coder/dotfiles)
 - [gabriel-suela](https://github.com/gabriel-suela/dotfiles-v2)
 - [sommaa](https://github.com/sommaa/Mantis)
@@ -153,6 +154,7 @@
 ### LeftWM
 
 - [almqv](https://github.com/almqv/dotfiles)
+
 ### Lightdm
 
 - [TheWisker](https://github.com/TheWisker/Shikai)
@@ -169,6 +171,7 @@
 - [diegorezm](https://github.com/diegorezm/dotfiles-d/tree/master)
 - [Fluffy-Bean](https://github.com/Fluffy-Bean/dots)
 - [Hamza12700](https://github.com/Hamza12700/DotFiles)
+
 ### Riverwm
 
 - [theCode-Breaker](https://github.com/theCode-Breaker/riverwm)
@@ -206,5 +209,4 @@ We welcome contributions from the community. If you have a unique rice that you'
 
 To the extent possible under law, Miguel Soares has waived all copyright and related or neighboring rights to this work under the [CC0 1.0 Universal](LICENSE) license.
 
-
-##### *Disclaimer: This repository contains links to other repositories. While we aim to only link to repositories of high quality, we cannot guarantee the safety or reliability of the content found within. Please be aware of this before using anyone else's scripts or dotfiles.
+##### \*Disclaimer: This repository contains links to other repositories. While we aim to only link to repositories of high quality, we cannot guarantee the safety or reliability of the content found within. Please be aware of this before using anyone else's scripts or dotfiles.
