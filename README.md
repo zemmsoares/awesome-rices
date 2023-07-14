@@ -56,6 +56,7 @@
 - [Stardust-kyun](https://github.com/Stardust-kyun/dotfiles)
 - [TorchedSammy](https://github.com/TorchedSammy/dotfiles)
 - [vulekhanh](https://github.com/vulekhanh/dotfiles)
+- [madhur](https://github.com/madhur/dotfiles)
 
 ### bspwm
 
