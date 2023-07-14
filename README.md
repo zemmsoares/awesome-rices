@@ -45,6 +45,7 @@
 - [HoNamDuong](https://github.com/HoNamDuong/.dotfiles)
 - [Kasper24](https://github.com/Kasper24/KwesomeDE)
 - [Manas140](https://github.com/Manas140/dotfiles)
+- [p3nguin-kun](https://github.com/p3nguin-kun/penguinRice)
 - [PassiveLemon](https://github.com/PassiveLemon/lemonix)
 - [rklyz](https://github.com/rklyz/MyRice)
 - [rxyhn](https://github.com/rxyhn/yoru)
