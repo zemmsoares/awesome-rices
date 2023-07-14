@@ -85,13 +85,13 @@
 ### dwm
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/dwm)
+- [codedsprit](https://github.com/codedsprit/dotfiles)
 - [Dorovich](https://github.com/Dorovich/dotfiles)
 - [Gwynsav](https://github.com/Gwynsav/dwmrice)
 - [juacq97](https://github.com/juacq97/dotfiles)
 - [nxb1t](https://github.com/nxb1t/dwm-dots)
 - [raihanadf](https://github.com/raihanadf/dotfiles)
 - [seeingangelz](https://github.com/seeingangelz/dotfiles)
-- [codedsprit](https://github.com/codedsprit/dotfiles)
 
 ### Gnome
 
