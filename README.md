@@ -177,6 +177,7 @@
 - [RicArch97](https://github.com/RicArch97/nixos-config)
 - [Sunglas](https://github.com/Sunglas/laptop-dots-wl)
 - [viperML](https://github.com/viperML/dotfiles)
+- [eoli3n](https://github.com/eoli3n/dotfiles)
 
 ### Xfce
 
