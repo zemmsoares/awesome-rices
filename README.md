@@ -91,6 +91,7 @@
 - [nxb1t](https://github.com/nxb1t/dwm-dots)
 - [raihanadf](https://github.com/raihanadf/dotfiles)
 - [seeingangelz](https://github.com/seeingangelz/dotfiles)
+- [codedsprit](https://github.com/codedsprit/dotfiles)
 
 ### Gnome
 
