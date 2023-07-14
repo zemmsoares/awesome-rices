@@ -138,6 +138,7 @@
 - [b1337xyz](https://github.com/b1337xyz/config/tree/xp)
 - [BIBJAW](https://github.com/BIBJAW/Final_Rice)
 - [bibjaw99](https://github.com/bibjaw99/workstation)
+- [Blxckmage](https://github.com/Blxckmage/dotfiles)
 - [bryant-the-coder](https://github.com/bryant-the-coder/dotfiles)
 - [gabriel-suela](https://github.com/gabriel-suela/dotfiles-v2)
 - [sommaa](https://github.com/sommaa/Mantis)
@@ -145,7 +146,6 @@
 - [TKK13909](https://github.com/TKK13909/dotfiles)
 - [Vallen217](https://github.com/Vallen217/dotfiles)
 - [zemmsoares](https://github.com/zemmsoares/.dotfiles)
-- [Blxckmage](https://github.com/Blxckmage/dotfiles)
 
 ### KDE
 
