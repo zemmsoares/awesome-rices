@@ -172,6 +172,7 @@
 - [Fluffy-Bean](https://github.com/Fluffy-Bean/dots)
 - [Hamza12700](https://github.com/Hamza12700/DotFiles)
 - [shayanaqvi](https://github.com/shayanaqvi/dotfilets)
+- [gibranlp](https://github.com/gibranlp/QARSlp)
 
 ### Riverwm
 
