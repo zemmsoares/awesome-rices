@@ -170,6 +170,7 @@
 - [Darkkal44](https://github.com/Darkkal44/Cozytile)
 - [diegorezm](https://github.com/diegorezm/dotfiles-d/tree/master)
 - [Fluffy-Bean](https://github.com/Fluffy-Bean/dots)
+- [gibranlp](https://github.com/gibranlp/QARSlp)
 - [Hamza12700](https://github.com/Hamza12700/DotFiles)
 - [shayanaqvi](https://github.com/shayanaqvi/dotfilets)
 
