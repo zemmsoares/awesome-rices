@@ -44,6 +44,7 @@
 - [Gwynsav](https://github.com/Gwynsav/gwdawful/tree/master)
 - [HoNamDuong](https://github.com/HoNamDuong/.dotfiles)
 - [Kasper24](https://github.com/Kasper24/KwesomeDE)
+- [madhur](https://github.com/madhur/dotfiles)
 - [Manas140](https://github.com/Manas140/dotfiles)
 - [MeledoJames](https://github.com/MeledoJames/awesome-setup)
 - [p3nguin-kun](https://github.com/p3nguin-kun/penguinRice)
