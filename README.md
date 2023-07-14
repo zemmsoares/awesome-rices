@@ -173,6 +173,7 @@
 
 ### Sway
 
+- [eoli3n](https://github.com/eoli3n/dotfiles)
 - [hifinerd](https://github.com/hifinerd/lugia-sway-dots)
 - [KubqoA](https://github.com/KubqoA/dotfiles)
 - [RicArch97](https://github.com/RicArch97/nixos-config)
