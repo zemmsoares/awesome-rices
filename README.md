@@ -114,6 +114,7 @@
 - [debuggyo](https://github.com/debuggyo/dots)
 - [dragoshr1234](https://github.com/dragoshr1234/hyprland-rotaru)
 - [end-4](https://github.com/end-4/dots-hyprland/)
+- [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles)
 - [h1tarxeth](https://github.com/h1tarxeth/Dots_infinity_horizon)
 - [hobosyo](https://github.com/hobosyo/pointfichiers/tree/hyprland-kanagawa)
 - [juance20](https://github.com/juance20/ArchRiceDotfiles)
