@@ -116,6 +116,7 @@
 - [dragoshr1234](https://github.com/dragoshr1234/hyprland-rotaru)
 - [end-4](https://github.com/end-4/dots-hyprland/)
 - [h1tarxeth](https://github.com/h1tarxeth/Dots_infinity_horizon)
+- [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles)
 - [hobosyo](https://github.com/hobosyo/pointfichiers/tree/hyprland-kanagawa)
 - [juance20](https://github.com/juance20/ArchRiceDotfiles)
 - [Knightfall01](https://github.com/Knightfall01/Hyprland-i3/tree/master)
