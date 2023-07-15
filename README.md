@@ -112,6 +112,7 @@
 
 - [1amSimp1e](https://github.com/1amSimp1e/dots)
 - [ahujaankush](https://github.com/ahujaankush/AetherizedDots)
+- [conrad-mo](https://github.com/conrad-mo/hyprland-dot)
 - [dankdezpair](https://github.com/dankdezpair/hypr.files-V2)
 - [debuggyo](https://github.com/debuggyo/dots)
 - [dragoshr1234](https://github.com/dragoshr1234/hyprland-rotaru)
@@ -132,7 +133,6 @@
 - [Spagett1](https://github.com/Spagett1/dotfiles)
 - [Stetsed](https://github.com/Stetsed/.dotfiles)
 - [Yorubae](https://github.com/Yorubae/wayland-dotfiles)
-- [conrad-mo](https://github.com/conrad-mo/hyprland-dot)
 
 ### i3wm
 
