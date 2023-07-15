@@ -140,6 +140,7 @@
 - [bibjaw99](https://github.com/bibjaw99/workstation)
 - [Blxckmage](https://github.com/Blxckmage/dotfiles)
 - [bryant-the-coder](https://github.com/bryant-the-coder/dotfiles)
+- [fathulfahmy](https://github.com/fathulfahmy/dotfiles-linux/)
 - [gabriel-suela](https://github.com/gabriel-suela/dotfiles-v2)
 - [sommaa](https://github.com/sommaa/Mantis)
 - [SunoBB](https://github.com/SunoBB/dot)
@@ -189,7 +190,7 @@
 
 ### Xfce
 
-- [fathulfahmy](https://github.com/fathulfahmy/dotfiles-linux/tree/main)
+- [fathulfahmy](https://github.com/fathulfahmy/dotfiles-linux/)
 - [mehedirm6244](https://github.com/mehedirm6244/Miserable_Xfce/tree/Tokyonight)
 
 ### Xmonad
