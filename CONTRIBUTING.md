@@ -10,6 +10,7 @@ We welcome contributions from the community. If you have a unique rice that you'
     ```markdown
     - [Your GitHub Username](https://github.com/yourusername/yourrepositoryname)
     ```
+    ##### Entries should be sorted alphabetically to maintain order and ease of navigation for users
 
 Your contribution is helping us cook up the tastiest Unix experiences around! Thanks!
 
