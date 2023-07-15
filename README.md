@@ -132,6 +132,7 @@
 - [Spagett1](https://github.com/Spagett1/dotfiles)
 - [Stetsed](https://github.com/Stetsed/.dotfiles)
 - [Yorubae](https://github.com/Yorubae/wayland-dotfiles)
+- [conrad-mo](https://github.com/conrad-mo/hyprland-dot)
 
 ### i3wm
 
