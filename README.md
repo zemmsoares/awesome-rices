@@ -1,34 +1,43 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/logo.webp" alt="Awesome Rices logo" width="150" style="margin-bottom: 30px;">  
+  <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/logo.webp" alt="Awesome Rices logo" width="150" style="margin-bottom: 30px;">
   <h1 style="font-size: 32px; border: none; line-height: 0; font-weight: bold">Awesome Rices</h1>
+  <h5 align="center">
+    <a href="https://github.com/zemmsoares/awesome-rices#rices">Rices</a>
+    ·
+    <a href="https://github.com/zemmsoares/awesome-rices#contribute">Contribute</a>
+  </h5>
   <p>This repository is a collection of outstanding Unix customizations.<br> Explore different user rices, get inspired, inspire us.</p>
     <div style="margin-bottom: 10px">
-     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
-  <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/awesome-rice-badge.svg" alt="awesome-rice-badge"/>
+      <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
+      <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/awesome-rice-badge.svg" alt="awesome-rice-badge"/><br>
+      <a href="https://github.com/zemmsoares/awesome-rices/stargazers">
+  		<img alt="Stargazers" src="https://img.shields.io/github/stars/zemmsoares/awesome-rices?style=round&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+    	<a href="https://github.com/zemmsoares/awesome-rices/issues">
+    	<img alt="Issues" src="https://img.shields.io/github/issues/zemmsoares/awesome-rices?style=round&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
     </div>
     <br>
 </div>
 
 # Table of Contents
 
-- [Awesomewm](#awesomewm)
-- [bspwm](#bspwm)
-- [DkWM](#dkwm)
-- [dwm](#dwm)
-- [Gnome](#gnome)
-- [Herbstluftwm](#herbstluftwm)
-- [Hyprland](#hyprland)
-- [i3wm](#i3wm)
-- [KDE](#kde)
-- [LeftWM](#leftwm)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/awesome.png" height="19"> [Awesomewm](#awesomewm)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/bspwm.svg" height="12"> [bspwm](#bspwm)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/dk.png" height="20"> [DkWM](#dkwm)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/dwm-white.png" height="10"> [dwm](#dwm)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/Gnomelogo-footprint.svg" height="20"> [Gnome](#gnome)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/Hlwm_logo.svg" height="20"> [Herbstluftwm](#herbstluftwm)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/hyprland.png" height="16"> [Hyprland](#hyprland)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/I3_window_manager_logo.svg" height="20"> [i3wm](#i3wm)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/KDE_logo.svg" height="20">[KDE](#kde)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/logo.png" height="20"> [LeftWM](#leftwm)
 - [Lightdm](#lightdm)
-- [Openbox](#openbox)
-- [Qtile](#qtile)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/Openbox.png" height="20"> [Openbox](#openbox)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/qtile.png" height="16"> [Qtile](#qtile)
 - [Riverwm](#riverwm)
-- [Sway](#sway)
-- [Xfce](#xfce)
-- [Yabai](#yabai)
-- [Contribute](#contribute)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/Sway_Tree.svg" height="20"> [Sway](#sway)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/XFCE 4 Logo.svg" height="20"> [Xfce](#xfce)
+- <img src="https://github.com/Narmis-E/unix-github-badges/blob/main/wm/yabai.png" height="20"> [Yabai](#yabai)
+- 📖 [Contribute](#contribute)
 
 # Rices
 
