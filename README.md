@@ -68,6 +68,7 @@
 - [hlissner](https://github.com/hlissner/dotfiles)
 - [JakeGinesin](https://github.com/JakeGinesin/dotfiles)
 - [justleoo](https://github.com/justleoo/dotfiles)
+- [kabinspace](https://github.com/kabinspace/dotfiles)
 - [Narmis-E](https://github.com/Narmis-E/bspwm-catppuccin)
 - [probe2k](https://github.com/probe2k/bspwm_rice)
 - [rklyz](https://github.com/rklyz/.files)
