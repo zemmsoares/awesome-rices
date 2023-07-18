@@ -11,24 +11,29 @@
 
 # Table of Contents
 
-- [Awesomewm](#awesomewm)
-- [bspwm](#bspwm)
-- [DkWM](#dkwm)
-- [dwm](#dwm)
-- [Gnome](#gnome)
-- [Herbstluftwm](#herbstluftwm)
-- [Hyprland](#hyprland)
-- [i3wm](#i3wm)
-- [KDE](#kde)
-- [LeftWM](#leftwm)
-- [Lightdm](#lightdm)
-- [Openbox](#openbox)
-- [Qtile](#qtile)
-- [Riverwm](#riverwm)
-- [Sway](#sway)
-- [Xfce](#xfce)
-- [Yabai](#yabai)
+- [Table of Contents](#table-of-contents)
+- [Rices](#rices)
+    - [Awesomewm](#awesomewm)
+    - [bspwm](#bspwm)
+    - [DkWM](#dkwm)
+    - [dwm](#dwm)
+    - [Gnome](#gnome)
+    - [Herbstluftwm](#herbstluftwm)
+    - [Hyprland](#hyprland)
+    - [i3wm](#i3wm)
+    - [KDE](#kde)
+    - [LeftWM](#leftwm)
+    - [Lightdm](#lightdm)
+    - [Openbox](#openbox)
+    - [Qtile](#qtile)
+    - [Riverwm](#riverwm)
+    - [Sway](#sway)
+    - [Xfce](#xfce)
+    - [Xmonad](#xmonad)
+    - [Yabai](#yabai)
 - [Contribute](#contribute)
+- [License](#license)
+        - [\*Disclaimer: This repository contains links to other repositories. While we aim to only link to repositories of high quality, we cannot guarantee the safety or reliability of the content found within. Please be aware of this before using anyone else's scripts or dotfiles.](#disclaimer-this-repository-contains-links-to-other-repositories-while-we-aim-to-only-link-to-repositories-of-high-quality-we-cannot-guarantee-the-safety-or-reliability-of-the-content-found-within-please-be-aware-of-this-before-using-anyone-elses-scripts-or-dotfiles)
 
 # Rices
 
@@ -170,6 +175,7 @@
 
 ### Qtile
 
+- [Barbaross93](https://github.com/Barbaross93/Nebula)
 - [Darkkal44](https://github.com/Darkkal44/Cozytile)
 - [diegorezm](https://github.com/diegorezm/dotfiles-d/tree/master)
 - [Fluffy-Bean](https://github.com/Fluffy-Bean/dots)
