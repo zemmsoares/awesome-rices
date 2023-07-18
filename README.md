@@ -33,7 +33,6 @@
     - [Yabai](#yabai)
 - [Contribute](#contribute)
 - [License](#license)
-        - [\*Disclaimer: This repository contains links to other repositories. While we aim to only link to repositories of high quality, we cannot guarantee the safety or reliability of the content found within. Please be aware of this before using anyone else's scripts or dotfiles.](#disclaimer-this-repository-contains-links-to-other-repositories-while-we-aim-to-only-link-to-repositories-of-high-quality-we-cannot-guarantee-the-safety-or-reliability-of-the-content-found-within-please-be-aware-of-this-before-using-anyone-elses-scripts-or-dotfiles)
 
 # Rices
 
@@ -220,4 +219,4 @@ We welcome contributions from the community. If you have a unique rice that you'
 
 To the extent possible under law, Miguel Soares has waived all copyright and related or neighboring rights to this work under the [CC0 1.0 Universal](LICENSE) license.
 
-##### \*Disclaimer: This repository contains links to other repositories. While we aim to only link to repositories of high quality, we cannot guarantee the safety or reliability of the content found within. Please be aware of this before using anyone else's scripts or dotfiles.
+<sub><sup>**Disclaimer:** This repository contains links to other repositories. While we aim to only link to repositories of high quality, we cannot guarantee the safety or reliability of the content found within. Please be aware of this before using anyone else's scripts or dotfiles.</sup></sub>
