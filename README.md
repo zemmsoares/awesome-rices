@@ -117,6 +117,7 @@
 
 - [1amSimp1e](https://github.com/1amSimp1e/dots)
 - [ahujaankush](https://github.com/ahujaankush/AetherizedDots)
+- [cafreo](https://github.com/cafreo/hyprland-intergalactic)
 - [command-z-z](https://github.com/command-z-z/Arch-dotfiles)
 - [conrad-mo](https://github.com/conrad-mo/hyprland-dot)
 - [dankdezpair](https://github.com/dankdezpair/hypr.files-V2)
