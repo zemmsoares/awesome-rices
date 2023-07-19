@@ -117,6 +117,7 @@
 
 - [1amSimp1e](https://github.com/1amSimp1e/dots)
 - [ahujaankush](https://github.com/ahujaankush/AetherizedDots)
+- [command-z-z](https://github.com/command-z-z/Arch-dotfiles)
 - [conrad-mo](https://github.com/conrad-mo/hyprland-dot)
 - [dankdezpair](https://github.com/dankdezpair/hypr.files-V2)
 - [debuggyo](https://github.com/debuggyo/dots)
@@ -207,6 +208,7 @@
 
 ### Yabai
 
+- [command-z-z](https://github.com/command-z-z/dotfiles)
 - [FelixKratz](https://github.com/FelixKratz/dotfiles)
 - [QRX53](https://github.com/QRX53/dotfiles)
 - [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles)
