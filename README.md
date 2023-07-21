@@ -243,7 +243,6 @@
 - [excalith-start-page](https://github.com/excalith/excalith-start-page): Terminal-inspired, clean, feature-rich and customizable start page
 ## Wallpapers
 
-- [kde-sunset-wallpaper](https://github.com/Oman395/kde-sunset-wallpaper): script to set wallpaper dynamically.
 - [onedark-wallpapers](https://github.com/Narmis-E/onedark-wallpapers) Collection of wallpapers colourised to fit the onedark gtk theme
 
 # Contribute
