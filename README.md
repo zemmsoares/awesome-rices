@@ -31,10 +31,6 @@
   - [Xfce](#xfce)
   - [Xmonad](#xmonad)
   - [Yabai](#yabai)
-- [Ricing Tools](#ricing-tools)
-  - [System Info Tools](#system-info-tools)
-  - [Wallpapers](#wallpapers)
-  - [Others](#others)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -217,30 +213,10 @@
 - [FelixKratz](https://github.com/FelixKratz/dotfiles)
 - [QRX53](https://github.com/QRX53/dotfiles)
 - [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles)
-  
-
-# Ricing Tools
-
-## System Info Tools
-
-- [binfetch](https://github.com/Im-0xea/binfetch): A Neofetch inspired binary analyzer
-- [GruvFetch](https://github.com/MujtabaAsim/GruvFetch): Very simple shell script to create a Gruvbox-themed system fetch
-- [pfetch-rs](https://github.com/Gobidev/pfetch-rs): A rewrite of the pfetch system information tool in Rust
-- [punfetch](https://github.com/ozwaldorf/punfetch): Command-line System Information Tool
-- [pytch](https://github.com/kritdass/pytch): A lightweight and elegant fetch for Linux written in Python with 0 dependencies
-
-## Wallpapers
-
-- [aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) An awesome collection of aesthetic wallpapers 
-- [onedark-wallpapers](https://github.com/Narmis-E/onedark-wallpapers) A Curated collection of wallpapers colourised to fit the onedark gtk theme
-
-## Others
-- [awesome-startpage](https://github.com/jnmcfly/awesome-startpage): Awesome List of startpages. 
-- [rice-manager](https://github.com/Narmis-E/rice-manager): A GTK3.0 Dotfile Management tool for Linux Rices
 
 # Contribute
 
-We welcome contributions from the community. If you have a unique rice, tool, or resource that you'd like to showcase, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community. If you have a unique rice that you'd like to showcase, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
 
 # License
 

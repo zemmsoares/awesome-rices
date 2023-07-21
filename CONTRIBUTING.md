@@ -1,7 +1,7 @@
 # Contribution Guidelines
 
 We're excited that you're interested in contributing to Awesome Rices!  
-We welcome contributions from the community. If you have a unique rice, tool, or resource that you'd like to showcase, please follow these guidelines:
+We welcome contributions from the community. If you have a unique rice that you'd like to showcase, please follow these guidelines:
 
 # Share your Rice
 
@@ -11,17 +11,6 @@ We welcome contributions from the community. If you have a unique rice, tool, or
 
     ```markdown
     - [Your GitHub Username](https://github.com/yourusername/yourrepositoryname)
-    ```
-    ##### Entries should be sorted alphabetically to maintain order and ease of navigation for users
-
-
-# Share a Ricing Tool
-
-
-1. **Create a Pull Request (PR):** Add an entry of your tool under the correct Category section in our `README.md` in the format:
-
-    ```markdown
-    - [yourrepositoryname](https://github.com/yourusername/yourrepositoryname) - Brief description of the tool (Keep it short)
     ```
     ##### Entries should be sorted alphabetically to maintain order and ease of navigation for users
 
