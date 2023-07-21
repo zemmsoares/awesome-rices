@@ -83,6 +83,7 @@
 - [sudo-harun](https://github.com/sudo-harun/dotfiles/tree/main)
 - [valb-mig](https://github.com/valb-mig/.dotfiles)
 - [Weirdchupacabra](https://github.com/Weirdchupacabra/void-dotfiles)
+- [zoddDev](https://github.com/zoddDev/dotfiles)
 
 ## DkWM
 
