@@ -33,9 +33,8 @@
   - [Yabai](#yabai)
 - [Ricing Tools](#ricing-tools)
   - [System Info Tools](#system-info-tools)
-  - [Dotfile Management](#dotfile-management)
-  - [Start Page](#start-page)
   - [Wallpapers](#wallpapers)
+  - [Others](#others)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -222,9 +221,6 @@
 
 # Ricing Tools
 
-
-
-
 ## System Info Tools
 
 - [binfetch](https://github.com/Im-0xea/binfetch): A Neofetch inspired binary analyzer
@@ -233,17 +229,14 @@
 - [punfetch](https://github.com/ozwaldorf/punfetch): Command-line System Information Tool
 - [pytch](https://github.com/kritdass/pytch): A lightweight and elegant fetch for Linux written in Python with 0 dependencies
 
-## Dotfile Management
-
-- [rice-manager](https://github.com/Narmis-E/rice-manager): A GTK3.0 Dotfile Management tool for Linux Rices
-
-
-## Start Page
-
-- [excalith-start-page](https://github.com/excalith/excalith-start-page): Terminal-inspired, clean, feature-rich and customizable start page
 ## Wallpapers
 
-- [onedark-wallpapers](https://github.com/Narmis-E/onedark-wallpapers) Collection of wallpapers colourised to fit the onedark gtk theme
+- [aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) An awesome collection of aesthetic wallpapers 
+- [onedark-wallpapers](https://github.com/Narmis-E/onedark-wallpapers) A Curated collection of wallpapers colourised to fit the onedark gtk theme
+
+## Others
+- [awesome-startpage](https://github.com/jnmcfly/awesome-startpage): Awesome List of startpages. 
+- [rice-manager](https://github.com/Narmis-E/rice-manager): A GTK3.0 Dotfile Management tool for Linux Rices
 
 # Contribute
 
