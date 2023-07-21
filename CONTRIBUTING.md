@@ -1,7 +1,9 @@
 # Contribution Guidelines
 
 We're excited that you're interested in contributing to Awesome Rices!  
-We welcome contributions from the community. If you have a unique rice that you'd like to showcase, please follow these guidelines:
+We welcome contributions from the community. If you have a unique rice, tool, or resource that you'd like to showcase, please follow these guidelines:
+
+# Share your Rice
 
 1. **Prepare your rice repository:** Make sure that the `README.md` of your rice repository includes a screenshot. This allows users to quickly see how your rice looks.
 
@@ -12,8 +14,16 @@ We welcome contributions from the community. If you have a unique rice that you'
     ```
     ##### Entries should be sorted alphabetically to maintain order and ease of navigation for users
 
-Your contribution is helping us cook up the tastiest Unix experiences around! Thanks!
 
+# Share a Ricing Tool
+
+
+1. **Create a Pull Request (PR):** Add an entry of your tool under the correct Category section in our `README.md` in the format:
+
+    ```markdown
+    - [yourrepositoryname](https://github.com/yourusername/yourrepositoryname) - Brief description of the tool (Keep it short)
+    ```
+    ##### Entries should be sorted alphabetically to maintain order and ease of navigation for users
 
 # Optional
 
@@ -24,3 +34,5 @@ Feel free to include the Awesome Rice badge in your repo if you want to!
 ```
 
 [![awesome-rice-badge](https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/awesome-rice-badge.svg)](https://github.com/zemmsoares/awesome-rices)
+
+Your contribution is helping us cook up the tastiest Unix experiences around! Thanks!

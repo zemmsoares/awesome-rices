@@ -13,30 +13,35 @@
 
 - [Table of Contents](#table-of-contents)
 - [Rices](#rices)
-    - [Awesomewm](#awesomewm)
-    - [bspwm](#bspwm)
-    - [DkWM](#dkwm)
-    - [dwm](#dwm)
-    - [Gnome](#gnome)
-    - [Herbstluftwm](#herbstluftwm)
-    - [Hyprland](#hyprland)
-    - [i3wm](#i3wm)
-    - [KDE](#kde)
-    - [LeftWM](#leftwm)
-    - [Lightdm](#lightdm)
-    - [Openbox](#openbox)
-    - [Qtile](#qtile)
-    - [Riverwm](#riverwm)
-    - [Sway](#sway)
-    - [Xfce](#xfce)
-    - [Xmonad](#xmonad)
-    - [Yabai](#yabai)
+  - [Awesomewm](#awesomewm)
+  - [bspwm](#bspwm)
+  - [DkWM](#dkwm)
+  - [dwm](#dwm)
+  - [Gnome](#gnome)
+  - [Herbstluftwm](#herbstluftwm)
+  - [Hyprland](#hyprland)
+  - [i3wm](#i3wm)
+  - [KDE](#kde)
+  - [LeftWM](#leftwm)
+  - [Lightdm](#lightdm)
+  - [Openbox](#openbox)
+  - [Qtile](#qtile)
+  - [Riverwm](#riverwm)
+  - [Sway](#sway)
+  - [Xfce](#xfce)
+  - [Xmonad](#xmonad)
+  - [Yabai](#yabai)
+- [Ricing Tools](#ricing-tools)
+  - [Command Line System Info Tools](#command-line-system-info-tools)
+  - [Dotfile Management](#dotfile-management)
+  - [Start Page](#start-page)
+  - [Wallpapers](#wallpapers)
 - [Contribute](#contribute)
 - [License](#license)
 
 # Rices
 
-### Awesomewm
+## Awesomewm
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/awesomewm)
 - [Amitabha37377](https://github.com/Amitabha37377/Awesome_Dotfiles)
@@ -62,7 +67,7 @@
 - [TorchedSammy](https://github.com/TorchedSammy/dotfiles)
 - [vulekhanh](https://github.com/vulekhanh/dotfiles)
 
-### bspwm
+## bspwm
 
 - [adilhyz](https://github.com/adilhyz/dotfiles-v1)
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/bspwm)
@@ -84,11 +89,11 @@
 - [valb-mig](https://github.com/valb-mig/.dotfiles)
 - [Weirdchupacabra](https://github.com/Weirdchupacabra/void-dotfiles)
 
-### DkWM
+## DkWM
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/dkwm)
 
-### dwm
+## dwm
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/dwm)
 - [codedsprit](https://github.com/codedsprit/dotfiles)
@@ -99,7 +104,7 @@
 - [raihanadf](https://github.com/raihanadf/dotfiles)
 - [seeingangelz](https://github.com/seeingangelz/dotfiles)
 
-### Gnome
+## Gnome
 
 - [1amSimp1e](https://github.com/1amSimp1e/dots)
 - [AviVarma](https://github.com/AviVarma/Dotfiles)
@@ -107,13 +112,13 @@
 - [GabrielTenma](https://github.com/GabrielTenma/dotfiles-gnm)
 - [NeuronSooup](https://github.com/NeuronSooup/Gnome-topbar-le-dots)
 
-### Herbstluftwm
+## Herbstluftwm
 
 - [breddie-normie](https://github.com/breddie-normie/dotfiles)
 - [nuxshed](https://github.com/nuxshed/dotfiles)
 - [scourii](https://github.com/scourii/.dotfiles/tree/main)
 
-### Hyprland
+## Hyprland
 
 - [1amSimp1e](https://github.com/1amSimp1e/dots)
 - [ahujaankush](https://github.com/ahujaankush/AetherizedDots)
@@ -141,7 +146,7 @@
 - [Stetsed](https://github.com/Stetsed/.dotfiles)
 - [Yorubae](https://github.com/Yorubae/wayland-dotfiles)
 
-### i3wm
+## i3wm
 
 - [b1337xyz](https://github.com/b1337xyz/config/tree/xp)
 - [BIBJAW](https://github.com/BIBJAW/Final_Rice)
@@ -156,25 +161,25 @@
 - [Vallen217](https://github.com/Vallen217/dotfiles)
 - [zemmsoares](https://github.com/zemmsoares/.dotfiles)
 
-### KDE
+## KDE
 
 - [ComplexPlatform](https://github.com/ComplexPlatform/KDE-dotfiles)
 
-### LeftWM
+## LeftWM
 
 - [almqv](https://github.com/almqv/dotfiles)
 
-### Lightdm
+## Lightdm
 
 - [TheWisker](https://github.com/TheWisker/Shikai)
 
-### Openbox
+## Openbox
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/openbox)
 - [Narmis-E](https://github.com/Narmis-E/openbox-everforest)
 - [owl4ce](https://github.com/owl4ce/dotfiles/tree/ng)
 
-### Qtile
+## Qtile
 
 - [Barbaross93](https://github.com/Barbaross93/Nebula)
 - [Darkkal44](https://github.com/Darkkal44/Cozytile)
@@ -184,11 +189,11 @@
 - [Hamza12700](https://github.com/Hamza12700/DotFiles)
 - [shayanaqvi](https://github.com/shayanaqvi/dotfilets)
 
-### Riverwm
+## Riverwm
 
 - [theCode-Breaker](https://github.com/theCode-Breaker/riverwm)
 
-### Sway
+## Sway
 
 - [eoli3n](https://github.com/eoli3n/dotfiles)
 - [hifinerd](https://github.com/hifinerd/lugia-sway-dots)
@@ -197,26 +202,53 @@
 - [Sunglas](https://github.com/Sunglas/laptop-dots-wl)
 - [viperML](https://github.com/viperML/dotfiles)
 
-### Xfce
+## Xfce
 
 - [fathulfahmy](https://github.com/fathulfahmy/dotfiles-linux/)
 - [mehedirm6244](https://github.com/mehedirm6244/Miserable_Xfce/tree/Tokyonight)
 
-### Xmonad
+## Xmonad
 
 - [Icy-Thought](https://github.com/Icy-Thought/snowflake)
 - [TheMidnightShow](https://github.com/TheMidnightShow/dotfiles)
 
-### Yabai
+## Yabai
 
 - [command-z-z](https://github.com/command-z-z/dotfiles)
 - [FelixKratz](https://github.com/FelixKratz/dotfiles)
 - [QRX53](https://github.com/QRX53/dotfiles)
 - [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles)
+  
+
+# Ricing Tools
+
+
+
+
+## Command Line System Info Tools
+
+- [binfetch](https://github.com/Im-0xea/binfetch): A Neofetch inspired binary analyzer
+- [GruvFetch](https://github.com/MujtabaAsim/GruvFetch): Very simple shell script to create a Gruvbox-themed system fetch
+- [pfetch-rs](https://github.com/Gobidev/pfetch-rs): A rewrite of the pfetch system information tool in Rust
+- [punfetch](https://github.com/ozwaldorf/punfetch): Command-line System Information Tool
+- [pytch](https://github.com/kritdass/pytch): A lightweight and elegant fetch for Linux written in Python with 0 dependencies
+
+## Dotfile Management
+
+- [rice-manager](https://github.com/Narmis-E/rice-manager): A GTK3.0 Dotfile Management tool for Linux Rices
+
+
+## Start Page
+
+- [excalith-start-page](https://github.com/excalith/excalith-start-page): Terminal-inspired, clean, feature-rich and customizable start page
+## Wallpapers
+
+- [kde-sunset-wallpaper](https://github.com/Oman395/kde-sunset-wallpaper): script to set wallpaper dynamically.
+- [onedark-wallpapers](https://github.com/Narmis-E/onedark-wallpapers) Collection of wallpapers colourised to fit the onedark gtk theme
 
 # Contribute
 
-We welcome contributions from the community. If you have a unique rice that you'd like to showcase, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community. If you have a unique rice, tool, or resource that you'd like to showcase, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
 
 # License
 
