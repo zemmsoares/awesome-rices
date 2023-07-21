@@ -32,7 +32,7 @@
   - [Xmonad](#xmonad)
   - [Yabai](#yabai)
 - [Ricing Tools](#ricing-tools)
-  - [Command Line System Info Tools](#command-line-system-info-tools)
+  - [System Info Tools](#system-info-tools)
   - [Dotfile Management](#dotfile-management)
   - [Start Page](#start-page)
   - [Wallpapers](#wallpapers)
@@ -225,7 +225,7 @@
 
 
 
-## Command Line System Info Tools
+## System Info Tools
 
 - [binfetch](https://github.com/Im-0xea/binfetch): A Neofetch inspired binary analyzer
 - [GruvFetch](https://github.com/MujtabaAsim/GruvFetch): Very simple shell script to create a Gruvbox-themed system fetch
