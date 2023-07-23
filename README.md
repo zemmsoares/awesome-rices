@@ -28,6 +28,7 @@
     - [Manas140](#manas140)
     - [MeledoJames](#meledojames)
     - [p3nguin-kun](#p3nguin-kun)
+    - [pablonoya](#pablonoya)
     - [PassiveLemon](#passivelemon)
     - [rklyz](#rklyz)
     - [rxyhn](#rxyhn)
@@ -200,6 +201,9 @@
 
 ### [p3nguin-kun](https://github.com/p3nguin-kun/penguinRice)
 [![p3nguin-kun](https://camo.githubusercontent.com/33dbf105da995711d192ae89d76522fe0700bb906d48086f10f9bb9fcdd91b90/68747470733a2f2f692e696d6775722e636f6d2f6a344f713567502e706e67)](https://github.com/p3nguin-kun/penguinRice)
+
+### [pablonoya](https://github.com/pablonoya/awesomewm-configuration)
+[![pablonoya](https://user-images.githubusercontent.com/31524852/232510330-a812c5d7-f5e5-4aa3-a7d5-deb58a684390.png)](https://github.com/pablonoya/awesomewm-configuration)
 
 ### [PassiveLemon](https://github.com/PassiveLemon/lemonix)
 [![PassiveLemon](https://github.com/PassiveLemon/lemonix/raw/awesomewm/desktop.png)](https://github.com/PassiveLemon/lemonix)
