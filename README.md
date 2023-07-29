@@ -59,6 +59,8 @@
     - [valb-mig](#valb-mig)
     - [Weirdchupacabra](#weirdchupacabra)
     - [zoddDev](#zodddev)
+  - [Cinnamon](#cinnamon)
+    - [SpreadiesInSpace](#spreadiesinspace)
   - [DkWM](#dkwm)
     - [AlphaTechnolog](#alphatechnolog-2)
   - [dwm](#dwm)
@@ -360,6 +362,13 @@
 [![zoddDev](https://github.com/zodd18/Gruvbox/raw/master/screenshot.png)](https://github.com/zoddDev/dotfiles)
 [![zoddDev](https://github.com/zoddDev/Dracula/raw/main/screenshot_.png)](https://github.com/zoddDev/dotfiles)
 [![zoddDev](https://github.com/zoddDev/Ayu/raw/master/screenshot.png)](https://github.com/zoddDev/dotfiles)
+
+## Cinnamon
+
+### [SpreadiesInSpace](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/tree/main)
+
+[![SpreadiesInSpace](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/blob/main/screenshots/NixOS-1.png?raw=true)](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/tree/main)
+[![SpreadiesInSpace](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/blob/main/screenshots/Garuda-2.png?raw=true)](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/tree/main)
 
 ## DkWM
 
