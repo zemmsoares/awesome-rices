@@ -156,6 +156,7 @@
     - [FelixKratz](#felixkratz)
     - [QRX53](#qrx53)
     - [tcmmichaelb139](#tcmmichaelb139)
+    - [ZhongXiLu](#zhongxilu)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -750,6 +751,14 @@
 
 [![tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles/raw/main/assets/desktop-blank.png)](https://github.com/tcmmichaelb139/.dotfiles)
 [![tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles/raw/main/assets/desktop-full.png)](https://github.com/tcmmichaelb139/.dotfiles)
+
+### [ZhongXiLu](https://github.com/ZhongXiLu/dotfiles)
+
+[![ZhongXiLu](https://user-images.githubusercontent.com/25816683/135727227-9a02917c-a1be-4790-bf46-3a91cbc29453.png)](https://github.com/ZhongXiLu/dotfiles)
+[![ZhongXiLu](https://user-images.githubusercontent.com/25816683/135727264-25800513-c2b9-4eb9-ab33-0fd17b6cbcec.png)](https://github.com/ZhongXiLu/dotfiles)
+
+
+
 
 # Contribute
 
