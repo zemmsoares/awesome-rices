@@ -95,6 +95,7 @@
     - [h1tarxeth](#h1tarxeth)
     - [HeinzDev](#heinzdev)
     - [hobosyo](#hobosyo)
+    - [justinlime](#justinlime)
     - [Knightfall01](#knightfall01)
     - [MathisP75](#mathisp75)
     - [maxtaran2010](#maxtaran2010)
@@ -506,6 +507,10 @@
 ### [hobosyo](https://github.com/hobosyo/pointfichiers/tree/hyprland-kanagawa)
 
 [![hobosyo](https://camo.githubusercontent.com/ff4f53f14b0a0c457430cc9d661eb2407740e81e17f47d3e22945b01bb941a7e/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3633353632353931373632333832383532302f313132353737333936343932313237383531372f696d6167652e706e673f77696474683d31313239266865696768743d363336)](https://github.com/hobosyo/pointfichiers/tree/hyprland-kanagawa)
+
+### [justinlime](https://github.com/justinlime/dotfiles)
+[![justinlime](https://camo.githubusercontent.com/3f25d8d7e550dc4ef75310a64e42e90f6628c1436fafe6d7f23d0a1f5f23edc9/68747470733a2f2f696d6775722e636f6d2f4273576b58437a2e706e67)](https://github.com/justinlime/dotfiles)
+[![justinlime](https://camo.githubusercontent.com/053fe146d765d5624f642089a81d09b805a09c41022093fbcf0db1ec4a176309/68747470733a2f2f696d6775722e636f6d2f463467475271612e706e67)](https://github.com/justinlime/dotfiles)
 
 ### [Knightfall01](https://github.com/Knightfall01/Hyprland-i3/tree/master)
 
