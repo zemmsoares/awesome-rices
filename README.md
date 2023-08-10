@@ -497,8 +497,8 @@
 
 ### [h1tarxeth](https://github.com/h1tarxeth/Dots_infinity_horizon)
 
-[![h1tarxeth](https://github.com/h1tarxeth/Dots_infinity_horizon/raw/main/ScreenShots/1.png)](https://github.com/h1tarxeth/Dots_infinity_horizon)
-[![h1tarxeth](https://github.com/h1tarxeth/Dots_infinity_horizon/raw/main/ScreenShots/3.png)](https://github.com/h1tarxeth/Dots_infinity_horizon)
+[![h1tarxeth](https://raw.githubusercontent.com/h1tarxeth/Dots/main/ScreenShots/1.jpeg)](https://github.com/h1tarxeth/Dots_infinity_horizon)
+[![h1tarxeth](https://raw.githubusercontent.com/h1tarxeth/Dots/main/ScreenShots/3.jpeg)](https://github.com/h1tarxeth/Dots_infinity_horizon)
 
 ### [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles)
 
