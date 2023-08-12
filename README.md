@@ -57,6 +57,7 @@
     - [star-isc](#star-isc)
     - [sudo-harun](#sudo-harun)
     - [valb-mig](#valb-mig)
+    - [wahyuwiyoko](#wahyuwiyoko)
     - [Weirdchupacabra](#weirdchupacabra)
     - [zoddDev](#zodddev)
   - [Cinnamon](#cinnamon)
@@ -119,6 +120,7 @@
     - [SunoBB](#sunobb)
     - [TKK13909](#tkk13909)
     - [Vallen217](#vallen217)
+    - [wahyuwiyoko](#wahyuwiyoko-1)
     - [zemmsoares](#zemmsoares)
   - [KDE](#kde)
     - [ComplexPlatform](#complexplatform)
@@ -147,6 +149,7 @@
     - [RicArch97](#ricarch97)
     - [Sunglas](#sunglas)
     - [viperML](#viperml)
+    - [wahyuwiyoko](#wahyuwiyoko-2)
   - [Xfce](#xfce)
     - [fathulfahmy](#fathulfahmy-1)
   - [Xmonad](#xmonad)
@@ -347,6 +350,10 @@
 ### [valb-mig](https://github.com/valb-mig/.dotfiles)
 
 [![valb-mig](https://github.com/valb-mig/.dotfiles/raw/main/.assets/dots.png)](https://github.com/valb-mig/.dotfiles)
+
+## [wahyuwiyoko](https://github.com/wahyuwiyoko/dotfiles)
+
+[![wahyuwiyoko](https://raw.githubusercontent.com/wahyuwiyoko/dotfiles/main/screenshots/bspwm.png)](https://github.com/wahyuwiyoko/dotfiles)
 
 ### [Weirdchupacabra](https://github.com/Weirdchupacabra/void-dotfiles)
 
@@ -613,6 +620,10 @@
 [![Vallen217](https://github.com/Vallen217/dotfiles/raw/master/screenshots/i3_rice_1.png)](https://github.com/Vallen217/dotfiles)
 [![Vallen217](https://github.com/Vallen217/dotfiles/blob/master/screenshots/i3_rice_2.png)](https://github.com/Vallen217/dotfiles)
 
+### [wahyuwiyoko](https://github.com/wahyuwiyoko/dotfiles)
+
+[![wahyuwiyoko](https://raw.githubusercontent.com/wahyuwiyoko/dotfiles/main/screenshots/i3.png)](https://github.com/wahyuwiyoko/dotfiles)
+
 ### [zemmsoares](https://github.com/zemmsoares/.dotfiles)
 
 [![zemmsoares](https://github.com/zemmsoares/.dotfiles/raw/master/screenshot.png)](https://github.com/zemmsoares/.dotfiles)
@@ -719,6 +730,10 @@
 ### [viperML](https://github.com/viperML/dotfiles)
 
 [![viperML](https://github.com/viperML/dotfiles/raw/master/misc/img/20230129.png)](https://github.com/viperML/dotfiles)
+
+### [wahyuwiyoko](https://github.com/wahyuwiyoko/dotfiles)
+
+[![wahyuwiyoko](https://raw.githubusercontent.com/wahyuwiyoko/dotfiles/main/screenshots/sway.png)](https://github.com/wahyuwiyoko/dotfiles)
 
 ## Xfce
 
