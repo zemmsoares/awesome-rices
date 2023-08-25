@@ -79,6 +79,7 @@
     - [Comiclyy](#comiclyy)
     - [GabrielTenma](#gabrieltenma)
     - [NeuronSooup](#neuronsooup)
+    - [slashedzer0](#slashedzer0)
   - [Herbstluftwm](#herbstluftwm)
     - [breddie-normie](#breddie-normie)
     - [nuxshed](#nuxshed)
@@ -444,6 +445,10 @@
 ### [NeuronSooup](https://github.com/NeuronSooup/Gnome-topbar-le-dots)
 
 [![NeuronSooup](https://github.com/NeuronSooup/Gnome-topbar-le-dots/assets/97825131/bc21f274-34dd-4260-8b03-42f4461da8d1)](https://github.com/NeuronSooup/Gnome-topbar-le-dots)
+
+### [slashedzer0](https://github.com/slashedzer0/nobara-dotfiles)
+
+[![slashedzer0](https://github.com/slashedzer0/nobara-dotfiles/raw/catppuccin/assets/floating.png)](https://github.com/slashedzer0/nobara-dotfiles)
 
 ## Herbstluftwm
 
