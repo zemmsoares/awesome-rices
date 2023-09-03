@@ -133,6 +133,7 @@
     - [AlphaTechnolog](#alphatechnolog-4)
     - [Narmis-E](#narmis-e-2)
     - [owl4ce](#owl4ce)
+    - [YurinDoctrine](#yurindoctrine)
   - [Qtile](#qtile)
     - [Barbaross93](#barbaross93)
     - [Darkkal44](#darkkal44)
@@ -671,6 +672,10 @@
 ### [owl4ce](https://github.com/owl4ce/dotfiles/tree/ng)
 
 [![owl4ce](https://camo.githubusercontent.com/2f040ef453832974b2f6fe50be701cfeec344ae752abb32f2ad747eb665cd6ab/68747470733a2f2f692e696d6775722e636f6d2f377057673476522e6a7067)](https://github.com/owl4ce/dotfiles/tree/ng)
+
+### [YurinDoctrine](https://github.com/YurinDoctrine/.config/tree/artix)
+
+[![YurinDoctrine](https://github.com/YurinDoctrine/deploy-artix/blob/main/screenshot.png?raw=true)](https://github.com/YurinDoctrine/.config/tree/artix)
 
 ## Qtile
 
