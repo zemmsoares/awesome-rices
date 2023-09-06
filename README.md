@@ -14,6 +14,7 @@
 - [Table of Contents](#table-of-contents)
 - [Rices](#rices)
   - [AwesomeWM](#awesomewm)
+    - [AllJavi](#alljavi) 
     - [AlphaTechnolog](#alphatechnolog)
     - [Amitabha37377](#amitabha37377)
     - [chadcat7](#chadcat7)
@@ -169,6 +170,10 @@
 # Rices
 
 ## AwesomeWM
+
+### [alljavi](https://github.com/AllJavi/tartarus-dotfiles)
+
+[![alljavi](https://github.com/AllJavi/tartarus-dotfiles/blob/master/Images/Screenshots/global_screenshot3.png)](https://github.com/AllJavi/tartarus-dotfiles)
 
 ### [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/awesomewm)
 
