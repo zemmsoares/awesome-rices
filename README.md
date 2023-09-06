@@ -14,6 +14,7 @@
 - [Table of Contents](#table-of-contents)
 - [Rices](#rices)
   - [AwesomeWM](#awesomewm)
+    - [AllJavi](#alljavi) 
     - [AlphaTechnolog](#alphatechnolog)
     - [Amitabha37377](#amitabha37377)
     - [chadcat7](#chadcat7)
@@ -38,7 +39,6 @@
     - [Stardust-kyun](#stardust-kyun)
     - [TorchedSammy](#torchedsammy)
     - [vulekhanh](#vulekhanh)
-    - [AllJavi](#alljavi)
   - [bspwm](#bspwm)
     - [adilhyz](#adilhyz)
     - [AlphaTechnolog](#alphatechnolog-1)
@@ -171,6 +171,10 @@
 
 ## AwesomeWM
 
+### [alljavi](https://github.com/AllJavi/tartarus-dotfiles)
+
+[![alljavi](https://github.com/AllJavi/tartarus-dotfiles/blob/master/Images/Screenshots/global_screenshot3.png)](https://github.com/AllJavi/tartarus-dotfiles)
+
 ### [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/awesomewm)
 
 [![AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/raw/awesomewm/.github/assets/banner.png)](https://github.com/AlphaTechnolog/dotfiles/tree/awesomewm)
@@ -266,10 +270,6 @@
 ### [vulekhanh](https://github.com/vulekhanh/dotfiles)
 
 [![vulekhanh](https://user-images.githubusercontent.com/61068720/235719073-25941152-3121-41b6-b869-a163c3523a5d.png)](https://github.com/vulekhanh/dotfiles)
-
-### [alljavi](https://github.com/AllJavi/tartarus-dotfiles)
-
-[![alljavi](https://github.com/AllJavi/tartarus-dotfiles/blob/master/Images/Screenshots/global_screenshot3.png)](https://github.com/AllJavi/tartarus-dotfiles)
 
 ## bspwm
 
