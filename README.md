@@ -38,6 +38,7 @@
     - [Stardust-kyun](#stardust-kyun)
     - [TorchedSammy](#torchedsammy)
     - [vulekhanh](#vulekhanh)
+    - [AllJavi](#alljavi)
   - [bspwm](#bspwm)
     - [adilhyz](#adilhyz)
     - [AlphaTechnolog](#alphatechnolog-1)
@@ -265,6 +266,10 @@
 ### [vulekhanh](https://github.com/vulekhanh/dotfiles)
 
 [![vulekhanh](https://user-images.githubusercontent.com/61068720/235719073-25941152-3121-41b6-b869-a163c3523a5d.png)](https://github.com/vulekhanh/dotfiles)
+
+### [alljavi](https://github.com/AllJavi/tartarus-dotfiles)
+
+[![alljavi](https://github.com/AllJavi/tartarus-dotfiles/blob/master/Images/Screenshots/global_screenshot3.png)](https://github.com/AllJavi/tartarus-dotfiles)
 
 ## bspwm
 
