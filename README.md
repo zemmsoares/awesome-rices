@@ -37,6 +37,7 @@
     - [Savecoders](#savecoders)
     - [Spaxly](#spaxly)
     - [Stardust-kyun](#stardust-kyun)
+    - [TanvirOnGH](#tanvirongh)
     - [TorchedSammy](#torchedsammy)
     - [vulekhanh](#vulekhanh)
   - [bspwm](#bspwm)
@@ -262,6 +263,10 @@
 ### [Stardust-kyun](https://github.com/Stardust-kyun/dotfiles)
 
 [![Stardust-kyun](https://github.com/Stardust-kyun/dotfiles/raw/main/src/thumbnail.png)](https://github.com/Stardust-kyun/dotfiles)
+
+### [TanvirOnGH](https://github.com/TanvirOnGH/awesomewm-config)
+
+[![TanvirOnGH](https://raw.githubusercontent.com/TanvirOnGH/awesomewm-config/dev/screenshots/rosybrown_desktop.png)](https://github.com/TanvirOnGH/awesomewm-config)
 
 ### [TorchedSammy](https://github.com/TorchedSammy/dotfiles)
 
