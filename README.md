@@ -14,7 +14,7 @@
 - [Table of Contents](#table-of-contents)
 - [Rices](#rices)
   - [AwesomeWM](#awesomewm)
-    - [AllJavi](#alljavi) 
+    - [alljavi](#alljavi)
     - [AlphaTechnolog](#alphatechnolog)
     - [Amitabha37377](#amitabha37377)
     - [chadcat7](#chadcat7)
@@ -22,9 +22,7 @@
     - [d-solis](#d-solis)
     - [elenapan](#elenapan)
     - [frapdotbm](#frapdotbm)
-    - [Gwynsav](#gwynsav)
     - [HoNamDuong](#honamduong)
-    - [Kasper24](#kasper24)
     - [madhur](#madhur)
     - [Manas140](#manas140)
     - [MeledoJames](#meledojames)
@@ -46,7 +44,7 @@
     - [DominatorXS](#dominatorxs)
     - [Erennedirlo](#erennedirlo)
     - [gh0stzk](#gh0stzk)
-    - [Gwynsav](#gwynsav-1)
+    - [Gwynsav](#gwynsav)
     - [hlissner](#hlissner)
     - [JakeGinesin](#jakeginesin)
     - [justleoo](#justleoo)
@@ -59,7 +57,7 @@
     - [star-isc](#star-isc)
     - [sudo-harun](#sudo-harun)
     - [valb-mig](#valb-mig)
-    - [wahyuwiyoko](#wahyuwiyoko)
+  - [wahyuwiyoko](#wahyuwiyoko)
     - [Weirdchupacabra](#weirdchupacabra)
     - [zoddDev](#zodddev)
   - [Cinnamon](#cinnamon)
@@ -70,7 +68,7 @@
     - [AlphaTechnolog](#alphatechnolog-3)
     - [codedsprit](#codedsprit)
     - [Dorovich](#dorovich)
-    - [Gwynsav](#gwynsav-2)
+    - [Gwynsav](#gwynsav-1)
     - [juacq97](#juacq97)
     - [nxb1t](#nxb1t)
     - [raihanadf](#raihanadf)
@@ -108,7 +106,6 @@
     - [prasanthrangan](#prasanthrangan)
     - [Redyf](#redyf)
     - [RumiAxolotl](#rumiaxolotl)
-    - [SimplyVoid](#simplyvoid)
     - [Spagett1](#spagett1)
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
@@ -180,9 +177,9 @@
 
 [![AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/raw/awesomewm/.github/assets/banner.png)](https://github.com/AlphaTechnolog/dotfiles/tree/awesomewm)
 
-### [Amitabha37377](https://github.com/Amitabha37377/Awesome_Dotfiles)
+### [Amitabha37377](https://github.com/Amitabha37377/Awful-DOTS)
 
-[![Amitabha37377](https://github.com/Amitabha37377/Awesome_Dotfiles/raw/master/screenshots/file1_20230425_185954.png)](https://github.com/Amitabha37377/Awesome_Dotfiles)
+[![Amitabha37377](https://github.com/Amitabha37377/Awful-DOTS/blob/master/assets/132.png)](https://github.com/Amitabha37377/Awful-DOTS)
 
 ### [chadcat7](https://github.com/chadcat7/crystal)
 
@@ -204,17 +201,9 @@
 
 [![frapdotbm](https://user-images.githubusercontent.com/118438453/218368968-958e54f0-b70f-4a33-83f0-bda9c2641cb8.png)](https://github.com/frapdotbmp/dotfiles)
 
-### [Gwynsav](https://github.com/Gwynsav/gwdawful/tree/master)
-
-[![Gwynsav](https://github.com/Gwynsav/gwdawful/blob/master/.github/laptop_screenshot.png?raw=true)](https://github.com/Gwynsav/gwdawful/tree/master)
-
 ### [HoNamDuong](https://github.com/HoNamDuong/.dotfiles)
 
 [![HoNamDuong](https://github.com/HoNamDuong/.dotfiles/blob/master/screenshots/awesomewm.png?raw=true)](https://github.com/HoNamDuong/.dotfiles)
-
-### [Kasper24](https://github.com/Kasper24/KwesomeDE)
-
-[![Kasper24](https://github.com/Kasper24/KwesomeDE/blob/main/.github/assets/1.png?raw=true)](https://github.com/Kasper24/KwesomeDE)
 
 ### [madhur](https://github.com/madhur/dotfiles)
 
@@ -238,7 +227,7 @@
 
 ### [PassiveLemon](https://github.com/PassiveLemon/lemonix)
 
-[![PassiveLemon](https://github.com/PassiveLemon/lemonix/raw/awesomewm/desktop.png)](https://github.com/PassiveLemon/lemonix)
+[![PassiveLemon](https://github.com/PassiveLemon/lemonix/raw/master/other/desktop.png)](https://github.com/PassiveLemon/lemonix)
 
 ### [rklyz](https://github.com/rklyz/MyRice)
 
@@ -357,7 +346,7 @@
 
 ### [sudo-harun](https://github.com/sudo-harun/dotfiles/tree/main)
 
-[![sudo-harun](https://github.com/sudo-harun/dotfiles/raw/main/assets/bspwm-vertical-bar-1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
+[![sudo-harun](https://github.com/sudo-harun/dotfiles/blob/main/assets/hyprland1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
 
 ### [valb-mig](https://github.com/valb-mig/.dotfiles)
 
@@ -578,10 +567,6 @@
 
 [![RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config/raw/main/darkmode.png)](https://github.com/RumiAxolotl/hyprland-config)
 
-### [SimplyVoid](https://github.com/SimplyVoid/hyprland-dots)
-
-[![SimplyVoid](https://github.com/SimplyVoid/hyprland-dots/raw/main/preview/4.jpeg)](https://github.com/SimplyVoid/hyprland-dots)
-
 ### [Spagett1](https://github.com/Spagett1/dotfiles)
 
 [![Spagett1](https://user-images.githubusercontent.com/77225642/240519760-99e2d1be-cc6d-42e6-a025-e39cbcf4ff3b.png)](https://github.com/Spagett1/dotfiles)
@@ -714,7 +699,7 @@
 
 ### [Hamza12700](https://github.com/Hamza12700/DotFiles)
 
-[![Hamza12700](https://github.com/Hamza12700/DotFiles/raw/main/screenshots/desktop.png)](https://github.com/Hamza12700/DotFiles)
+[![Hamza12700](https://github.com/Hamza12700/DotFiles/raw/main/screenshots/home-screenshot.png)](https://github.com/Hamza12700/DotFiles)
 
 ### [shayanaqvi](https://github.com/shayanaqvi/dotfilets)
 
@@ -809,5 +794,3 @@ We welcome contributions from the community. If you have a unique rice that you'
 # License
 
 To the extent possible under law, Miguel Soares has waived all copyright and related or neighboring rights to this work under the [CC0 1.0 Universal](LICENSE) license.
-
-<sub><sup>**Disclaimer:** This repository contains links to other repositories. While we aim to only link to repositories of high quality, we cannot guarantee the safety or reliability of the content found within. Please be aware of this before using anyone else's scripts or dotfiles.</sup></sub>
