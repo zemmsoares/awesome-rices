@@ -486,7 +486,7 @@
 
 ### [conrad-mo](https://github.com/conrad-mo/hyprland-dot)
 
-[![conrad-mo](https://raw.githubusercontent.com/conrad-mo/hyprland-dot/piano/screenshot.png?raw=true)](https://github.com/conrad-mo/hyprland-dot)
+[![conrad-mo](https://github.com/conrad-mo/hyprland-dot/raw/piano/screenshot.png?raw=true)](https://github.com/conrad-mo/hyprland-dot)
 
 ### [dankdezpair](https://github.com/dankdezpair/hypr.files-V2)
 
