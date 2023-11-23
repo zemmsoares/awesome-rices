@@ -1,4 +1,4 @@
-![image](https://github.com/debuggyo/awesome-rices/assets/96699361/9bc1bef2-9493-445e-b105-e81fd05d8c4e)<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/logo.webp" alt="Awesome Rices logo" width="150" style="margin-bottom: 30px;">  
   <h1 style="font-size: 32px; border: none; line-height: 0; font-weight: bold">Awesome Rices</h1>
   <p>This repository is a collection of outstanding Unix customizations.<br> Explore different user rices, get inspired, inspire us.</p>
