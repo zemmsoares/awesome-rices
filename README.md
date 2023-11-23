@@ -495,7 +495,7 @@
 
 ### [debuggyo](https://github.com/debuggyo/dots)
 
-[![debuggyo](https://user-images.githubusercontent.com/96699361/218343617-91b59916-a4f9-4635-b9ab-360a80ac4234.png)](https://github.com/debuggyo/dots)
+[![debuggyo](https://user-images.githubusercontent.com/96699361/282233240-fe1c7636-acc9-4822-8823-7104d7f50d38.png)](https://github.com/debuggyo/hyprdots)
 
 ### [dragoshr1234](https://github.com/dragoshr1234/hyprland-rotaru)
 
