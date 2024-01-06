@@ -22,6 +22,7 @@
     - [d-solis](#d-solis)
     - [elenapan](#elenapan)
     - [frapdotbm](#frapdotbm)
+    - [gabrielfrimodig](#gabrielfrimodig)
     - [HoNamDuong](#honamduong)
     - [madhur](#madhur)
     - [Manas140](#manas140)
@@ -200,6 +201,9 @@
 ### [frapdotbm](https://github.com/frapdotbmp/dotfiles)
 
 [![frapdotbm](https://user-images.githubusercontent.com/118438453/218368968-958e54f0-b70f-4a33-83f0-bda9c2641cb8.png)](https://github.com/frapdotbmp/dotfiles)
+
+### [gabrielfrimodig](https://github.com/gabrielfrimodig/dotfiles)
+[![gabrielfrimodig](https://camo.githubusercontent.com/0be4df59bf90ac6a90af3f0db0b8422ed820dbd544e502559a699f6543ff61e3/68747470733a2f2f692e696d6775722e636f6d2f72776c735833622e706e67)](https://github.com/gabrielfrimodig/dotfiles)
 
 ### [HoNamDuong](https://github.com/HoNamDuong/.dotfiles)
 
