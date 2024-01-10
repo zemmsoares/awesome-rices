@@ -30,6 +30,7 @@
     - [p3nguin-kun](#p3nguin-kun)
     - [pablonoya](#pablonoya)
     - [PassiveLemon](#passivelemon)
+    - [rifsxd](#rifsxd)
     - [rklyz](#rklyz)
     - [rxyhn](#rxyhn)
     - [saimoomedits](#saimoomedits)
@@ -232,6 +233,10 @@
 ### [PassiveLemon](https://github.com/PassiveLemon/lemonix)
 
 [![PassiveLemon](https://github.com/PassiveLemon/lemonix/raw/master/other/desktop.png)](https://github.com/PassiveLemon/lemonix)
+
+### [rifsxd](https://github.com/rifsxd/oh-my-awesomewm-dots)
+
+[![rifsxd](https://github.com/rifsxd/oh-my-awesomewm-dots/blob/main/assets/default-preview.png?raw=true)](https://github.com/rifsxd/oh-my-awesomewm-dots)
 
 ### [rklyz](https://github.com/rklyz/MyRice)
 
