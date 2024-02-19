@@ -512,9 +512,9 @@
 
 ### [end-4](https://github.com/end-4/dots-hyprland/)
 
-[![end-4](https://github.com/end-4/dots-hyprland/raw/main/assets/novelknock-yellow.png)](https://github.com/end-4/dots-hyprland/)
-[![end-4](https://github.com/end-4/dots-hyprland/raw/main/assets/screenshot-hybrid.png)](https://github.com/end-4/dots-hyprland/)
-[![end-4](https://github.com/end-4/dots-hyprland/raw/main/assets/windoes-3.png)](https://github.com/end-4/dots-hyprland/)
+[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/n-k.1.png)](https://github.com/end-4/dots-hyprland/)
+[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/hybrid.1.png)](https://github.com/end-4/dots-hyprland/)
+[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/windoes.1.png)](https://github.com/end-4/dots-hyprland/)
 
 ### [h1tarxeth](https://github.com/h1tarxeth/Dots_infinity_horizon)
 
