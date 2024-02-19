@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/logo.webp" alt="Awesome Rices logo" width="150" style="margin-bottom: 30px;">  
+  <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/logo.webp" alt="Awesome Rices logo" width="150" style="margin-bottom: 30px;">
   <h1 style="font-size: 32px; border: none; line-height: 0; font-weight: bold">Awesome Rices</h1>
   <p>This repository is a collection of outstanding Unix customizations.<br> Explore different user rices, get inspired, inspire us.</p>
     <div style="margin-bottom: 10px">
@@ -106,6 +106,7 @@
     - [Narmis-E](#narmis-e-1)
     - [ozwaldorf](#ozwaldorf)
     - [prasanthrangan](#prasanthrangan)
+    - [qxb3](#qxb3)
     - [Redyf](#redyf)
     - [RumiAxolotl](#rumiaxolotl)
     - [Spagett1](#spagett1)
@@ -567,6 +568,13 @@
 [![prasanthrangan](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/theme_maura_1.png)](https://github.com/prasanthrangan/hyprdots)
 [![prasanthrangan](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/theme_graph_1.png)](https://github.com/prasanthrangan/hyprdots)
 [![prasanthrangan](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/theme_cedge_1.png)](https://github.com/prasanthrangan/hyprdots)
+
+### [qxb3](https://github.com/qxb3/gruvbox.hypr)
+
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/main/repo/1.png)](https://github.com/qxb3/gruvbox.hypr)
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/main/repo/4.png)](https://github.com/qxb3/gruvbox.hypr)
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/main/repo/8.png)](https://github.com/qxb3/gruvbox.hypr)
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/main/repo/9.png)](https://github.com/qxb3/gruvbox.hypr)
 
 ### [Redyf](https://github.com/Redyf/nixdots)
 
