@@ -68,9 +68,6 @@
     - [AlphaTechnolog](#alphatechnolog-2)
   - [dwm](#dwm)
     - [AlphaTechnolog](#alphatechnolog-3)
-    - [codedsprit](#codedsprit)
-    - [Dorovich](#dorovich)
-    - [Gwynsav](#gwynsav-1)
     - [juacq97](#juacq97)
     - [nxb1t](#nxb1t)
     - [raihanadf](#raihanadf)
@@ -88,7 +85,6 @@
     - [scourii](#scourii)
   - [Hyprland](#hyprland)
     - [1amSimp1e](#1amsimp1e-1)
-    - [ahujaankush](#ahujaankush)
     - [cafreo](#cafreo)
     - [command-z-z](#command-z-z)
     - [conrad-mo](#conrad-mo)
@@ -98,7 +94,6 @@
     - [end-4](#end-4)
     - [h1tarxeth](#h1tarxeth)
     - [HeinzDev](#heinzdev)
-    - [hobosyo](#hobosyo)
     - [justinlime](#justinlime)
     - [Knightfall01](#knightfall01)
     - [MathisP75](#mathisp75)
@@ -151,18 +146,15 @@
     - [hifinerd](#hifinerd)
     - [KubqoA](#kubqoa)
     - [RicArch97](#ricarch97)
-    - [Sunglas](#sunglas)
     - [viperML](#viperml)
     - [wahyuwiyoko](#wahyuwiyoko-2)
   - [Xfce](#xfce)
     - [fathulfahmy](#fathulfahmy-1)
   - [Xmonad](#xmonad)
     - [Icy-Thought](#icy-thought)
-    - [TheMidnightShow](#themidnightshow)
   - [Yabai](#yabai)
     - [command-z-z](#command-z-z-1)
     - [FelixKratz](#felixkratz)
-    - [QRX53](#qrx53)
     - [tcmmichaelb139](#tcmmichaelb139)
     - [ZhongXiLu](#zhongxilu)
 - [Contribute](#contribute)
@@ -182,11 +174,13 @@
 
 ### [Amitabha37377](https://github.com/Amitabha37377/Awful-DOTS)
 
-[![Amitabha37377](https://github.com/Amitabha37377/Awful-DOTS/blob/master/assets/132.png)](https://github.com/Amitabha37377/Awful-DOTS)
+[![Amitabha37377](https://github.com/Amitabha37377/Awful-DOTS/raw/master/assets/topdock.png)](https://github.com/Amitabha37377/Awful-DOTS)
+[![Amitabha37377](https://github.com/Amitabha37377/Awful-DOTS/raw/master/assets/verticalbar.png)](https://github.com/Amitabha37377/Awful-DOTS)
+[![Amitabha37377](https://github.com/Amitabha37377/Awful-DOTS/raw/master/assets/bottombar.png)](https://github.com/Amitabha37377/Awful-DOTS)
 
 ### [chadcat7](https://github.com/chadcat7/crystal)
 
-[![chadcat7](https://github.com/chadcat7/crystal/blob/main/.github/screenshots/p1.png?raw=true)](https://github.com/chadcat7/crystal)
+[![chadcat7](https://github.com/chadcat7/crystal/raw/main/.github/screenshots/crystal.png)](https://github.com/chadcat7/crystal)
 
 ### [CmrCrabs](https://github.com/CmrCrabs/dotfiles)
 
@@ -213,7 +207,9 @@
 
 ### [madhur](https://github.com/madhur/dotfiles)
 
-[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/fastfetch.png)](https://github.com/madhur/dotfiles)
+[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/rofi.png)](https://github.com/madhur/dotfiles)
+[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/powermenu.png)](https://github.com/madhur/dotfiles)
+[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/nvim.png)](https://github.com/madhur/dotfiles)
 
 ### [Manas140](https://github.com/Manas140/dotfiles)
 
@@ -225,7 +221,7 @@
 
 ### [p3nguin-kun](https://github.com/p3nguin-kun/penguinRice)
 
-[![p3nguin-kun](https://camo.githubusercontent.com/33dbf105da995711d192ae89d76522fe0700bb906d48086f10f9bb9fcdd91b90/68747470733a2f2f692e696d6775722e636f6d2f6a344f713567502e706e67)](https://github.com/p3nguin-kun/penguinRice)
+[![p3nguin-kun](https://camo.githubusercontent.com/12e4f8176bbdbaddd8ed30cd64341bab4c372d1dc640d0a2b73821f75a09b95b/68747470733a2f2f692e696d6775722e636f6d2f365265586964592e706e67)](https://github.com/p3nguin-kun/penguinRice)
 
 ### [pablonoya](https://github.com/pablonoya/awesomewm-configuration)
 
@@ -233,7 +229,9 @@
 
 ### [PassiveLemon](https://github.com/PassiveLemon/lemonix)
 
-[![PassiveLemon](https://github.com/PassiveLemon/lemonix/raw/master/other/desktop.png)](https://github.com/PassiveLemon/lemonix)
+[![PassiveLemon](https://github.com/PassiveLemon/lemonix/raw/master/other/Desktop-lock.png)](https://github.com/PassiveLemon/lemonix)
+[![PassiveLemon](https://github.com/PassiveLemon/lemonix/raw/master/other/Desktop-empty.png)](https://github.com/PassiveLemon/lemonix)
+[![PassiveLemon](https://github.com/PassiveLemon/lemonix/raw/master/other/Desktop-media.png)](https://github.com/PassiveLemon/lemonix)
 
 ### [rifsxd](https://github.com/rifsxd/oh-my-awesomewm-dots)
 
@@ -241,7 +239,7 @@
 
 ### [rklyz](https://github.com/rklyz/MyRice)
 
-[![rklyz](https://camo.githubusercontent.com/cb37f166496d63d9636cbf4755789edd45450301186457102ef2fffd6ee6fb78/68747470733a2f2f692e696d6775722e636f6d2f31756d4644504d2e706e67)](https://github.com/rklyz/MyRice)
+[![rklyz](https://camo.githubusercontent.com/30028886db1c1758b3120a1651b183984c1480bae018e17e1a44d349d55d6df5/68747470733a2f2f692e696d6775722e636f6d2f31756d4644504d2e706e67)](https://github.com/rklyz/MyRice)
 
 ### [rxyhn](https://github.com/rxyhn/yoru)
 
@@ -269,7 +267,8 @@
 
 ### [TorchedSammy](https://github.com/TorchedSammy/dotfiles)
 
-[![TorchedSammy](https://camo.githubusercontent.com/6d848fcad6648bbe2836f9f7361ee6f4c4597b7c050c9c4d277d6d0b5b3cb29e/68747470733a2f2f736166652e6b617368696d612e6d6f652f796e6e377a627862337132652e706e67)](https://github.com/TorchedSammy/dotfiles)
+[![TorchedSammy](https://camo.githubusercontent.com/a1627cdda49fd5c74692be1b059592e7aeab5e2e3972c1ab089519570491ffda/68747470733a2f2f736166652e736179612e6d6f652f4555725971684f47697a457a2e706e67)](https://github.com/TorchedSammy/dotfiles)
+[![TorchedSammy](https://camo.githubusercontent.com/779e9c0fb7ffd2a7a8d3c73b42c41f9f9c316f17b23aa69cf9a40cbc642e5ffa/68747470733a2f2f736166652e736179612e6d6f652f6748426362517158686d436e2e706e67)](https://github.com/TorchedSammy/dotfiles)
 
 ### [vulekhanh](https://github.com/vulekhanh/dotfiles)
 
@@ -281,7 +280,7 @@
 
 ### [adilhyz](https://github.com/adilhyz/dotfiles-v1)
 
-[![adilhyz](https://github.com/adilhyz/dotfiles-v1/blob/master/preview/pamela.png?raw=true)](https://github.com/adilhyz/dotfiles-v1)
+[![adilhyz](https://github.com/adilhyz/dotfiles-v1/raw/master/preview/z.gif)](https://github.com/adilhyz/dotfiles-v1)
 
 ### [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/bspwm)
 
@@ -320,7 +319,9 @@
 
 ### [JakeGinesin](https://github.com/JakeGinesin/dotfiles)
 
-[![JakeGinesin](https://camo.githubusercontent.com/d57d77820bdc5bf5e77065e4caa54887443716da4a49dcbbd46b957809041ba9/68747470733a2f2f692e696d6775722e636f6d2f50716b344846582e706e67)](https://github.com/JakeGinesin/dotfiles)
+[![JakeGinesin](https://camo.githubusercontent.com/1d165d2c34f5fd21cdd0627a83b19c01c6ec4b7222375b055648827a0ee783d1/68747470733a2f2f692e696d6775722e636f6d2f50716b344846582e706e67)](https://github.com/JakeGinesin/dotfiles)
+[![JakeGinesin](https://camo.githubusercontent.com/1d165d2c34f5fd21cdd0627a83b19c01c6ec4b7222375b055648827a0ee783d1/68747470733a2f2f692e696d6775722e636f6d2f50716b344846582e706e67)](https://github.com/JakeGinesin/dotfiles)
+[![JakeGinesin](https://camo.githubusercontent.com/1d165d2c34f5fd21cdd0627a83b19c01c6ec4b7222375b055648827a0ee783d1/68747470733a2f2f692e696d6775722e636f6d2f50716b344846582e706e67)](https://github.com/JakeGinesin/dotfiles)
 
 ### [justleoo](https://github.com/justleoo/dotfiles)
 
@@ -336,7 +337,9 @@
 
 ### [probe2k](https://github.com/probe2k/bspwm_rice)
 
-[![probe2k](https://camo.githubusercontent.com/dd1cb5cbcc883816c9f7b1138d265dd0bf7070c2efcff394aa7e9f719c23a860/68747470733a2f2f692e726564642e69742f3533377a7366786d34376837312e706e67)](https://github.com/probe2k/bspwm_rice)
+[![probe2k](https://camo.githubusercontent.com/3227d6a4b2ed720522f7f0882f581b2dcfb46505d9eee1e36bdd3f57f1ac71f4/68747470733a2f2f692e726564642e69742f3533377a7366786d34376837312e706e67)](https://github.com/probe2k/bspwm_rice)
+[![probe2k](https://camo.githubusercontent.com/3227d6a4b2ed720522f7f0882f581b2dcfb46505d9eee1e36bdd3f57f1ac71f4/68747470733a2f2f692e726564642e69742f3533377a7366786d34376837312e706e67)](https://github.com/probe2k/bspwm_rice)
+[![probe2k](https://camo.githubusercontent.com/3227d6a4b2ed720522f7f0882f581b2dcfb46505d9eee1e36bdd3f57f1ac71f4/68747470733a2f2f692e726564642e69742f3533377a7366786d34376837312e706e67)](https://github.com/probe2k/bspwm_rice)
 
 ### [rklyz](https://github.com/rklyz/.files)
 
@@ -356,7 +359,9 @@
 
 ### [sudo-harun](https://github.com/sudo-harun/dotfiles/tree/main)
 
-[![sudo-harun](https://github.com/sudo-harun/dotfiles/blob/main/assets/hyprland1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
+[![sudo-harun](https://github.com/sudo-harun/dotfiles/raw/main/assets/retroesque1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
+[![sudo-harun](https://github.com/sudo-harun/dotfiles/raw/main/assets/gruvbox1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
+[![sudo-harun](https://github.com/sudo-harun/dotfiles/raw/main/assets/generic1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
 
 ### [valb-mig](https://github.com/valb-mig/.dotfiles)
 
@@ -387,8 +392,8 @@
 
 ### [SpreadiesInSpace](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/tree/main)
 
-[![SpreadiesInSpace](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/blob/main/screenshots/NixOS-1.png?raw=true)](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/tree/main)
-[![SpreadiesInSpace](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/blob/main/screenshots/Garuda-2.png?raw=true)](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/tree/main)
+
+[![SpreadiesInSpace](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/blob/main/screenshots/CinnamonGruvbox2024.png?raw=true)](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/tree/main)
 
 ## DkWM
 
@@ -401,19 +406,6 @@
 ### [AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/tree/dwm)
 
 [![AlphaTechnolog](https://github.com/AlphaTechnolog/dotfiles/raw/dwm/.github/assets/banner.png)](https://github.com/AlphaTechnolog/dotfiles/tree/dwm)
-
-### [codedsprit](https://github.com/codedsprit/dotfiles)
-
-[![codedsprit](https://github.com/codedsprit/dotfiles/raw/main/assets/artix.png)](https://github.com/codedsprit/dotfiles)
-
-### [Dorovich](https://github.com/Dorovich/dotfiles)
-
-[![Dorovich](https://github.com/Dorovich/dotfiles/raw/main/scr/5-1.png)](https://github.com/Dorovich/dotfiles)
-[![Dorovich](https://github.com/Dorovich/dotfiles/raw/main/scr/5-2.png)](https://github.com/Dorovich/dotfiles)
-
-### [Gwynsav](https://github.com/Gwynsav/dwmrice)
-
-[![Gwynsav](https://github.com/Gwynsav/dwmrice/raw/main/.gitignore/dwmarticblush.png)](https://github.com/Gwynsav/dwmrice)
 
 ### [juacq97](https://github.com/juacq97/dotfiles)
 
@@ -473,7 +465,9 @@
 ### [scourii](https://github.com/scourii/.dotfiles/tree/main)
 
 [![scourii](https://user-images.githubusercontent.com/64178604/119293177-dba58d00-bc1f-11eb-9f8c-33b4a0626d50.png)](https://github.com/scourii/.dotfiles/tree/main)
-[![scourii](https://camo.githubusercontent.com/d30437049d8a1996ac1233b4b70ae27c0983c70107b1c8b727a731e820f4de57/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3734333632383239353636383439383434332f3832383637353934373934323131373337362f756e6b6e6f776e2e706e67)](https://github.com/scourii/.dotfiles/tree/main)
+[![scourii](https://user-images.githubusercontent.com/64178604/119293263-0b549500-bc20-11eb-8a50-8f1fff58518d.png)](https://github.com/scourii/.dotfiles/tree/main)
+[![scourii](https://user-images.githubusercontent.com/64178604/119293354-3f2fba80-bc20-11eb-865a-5ba0191b4fc2.png)](https://github.com/scourii/.dotfiles/tree/main)
+
 
 ## Hyprland
 
@@ -482,17 +476,13 @@
 [![1amSimp1e](https://raw.githubusercontent.com/iamverysimp1e/dots/late-night-%F0%9F%8C%83/ScreenShots/HyprLand/preview.png)](https://github.com/1amSimp1e/dots)
 [![1amSimp1e](https://raw.githubusercontent.com/1amSimp1e/dots/balcony%F0%9F%9A%8A/ScreenShots/HyprLand/Rice.png)](https://github.com/1amSimp1e/dots)
 
-### [ahujaankush](https://github.com/ahujaankush/AetherizedDots)
-
-[![ahujaankush](https://github.com/ahujaankush/AetherizedDots/raw/main/showcase/1.png)](https://github.com/ahujaankush/AetherizedDots)
-
 ### [cafreo](https://github.com/cafreo/hyprland-intergalactic)
 
 [![cafreo](https://github.com/cafreo/hyprland-intergalactic/raw/main/screenshots/screenshot2.png)](https://github.com/cafreo/hyprland-intergalactic)
 
 ### [command-z-z](https://github.com/command-z-z/Arch-dotfiles)
 
-[![command-z-z](https://github.com/command-z-z/Arch-dotfiles/raw/main/img/img1.png)](https://github.com/command-z-z/Arch-dotfiles)
+[![command-z-z](https://github.com/command-z-z/Arch-dotfiles/raw/main/asserts/img1.png)](https://github.com/command-z-z/Arch-dotfiles)
 
 ### [conrad-mo](https://github.com/conrad-mo/hyprland-dot)
 
@@ -519,20 +509,23 @@
 
 ### [h1tarxeth](https://github.com/h1tarxeth/Dots_infinity_horizon)
 
-[![h1tarxeth](https://raw.githubusercontent.com/h1tarxeth/Dots/main/ScreenShots/1.jpeg)](https://github.com/h1tarxeth/Dots_infinity_horizon)
-[![h1tarxeth](https://raw.githubusercontent.com/h1tarxeth/Dots/main/ScreenShots/3.jpeg)](https://github.com/h1tarxeth/Dots_infinity_horizon)
+[![h1tarxeth](https://github.com/h1tarxeth/Dots/raw/main/images/1.jpeg)](https://github.com/h1tarxeth/Dots_infinity_horizon)
+[![h1tarxeth](https://github.com/h1tarxeth/Dots/raw/main/images/2.jpeg)](https://github.com/h1tarxeth/Dots_infinity_horizon)
+[![h1tarxeth](https://github.com/h1tarxeth/Dots/raw/main/images/3.jpeg)](https://github.com/h1tarxeth/Dots_infinity_horizon)
+[![h1tarxeth](https://github.com/h1tarxeth/Dots/raw/main/images/4.jpeg)](https://github.com/h1tarxeth/Dots_infinity_horizon)
+[![h1tarxeth](https://github.com/h1tarxeth/Dots/raw/main/images/5.jpeg)](https://github.com/h1tarxeth/Dots_infinity_horizon)
+
 
 ### [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles)
 
-[![HeinzDev](https://camo.githubusercontent.com/c26248fa7e1940bf8c07f615c8f5dd0e9435d7e358aca78a9ec16417b25ce746/68747470733a2f2f692e696d6775722e636f6d2f53345854305a462e706e67)](https://github.com/HeinzDev/Hyprland-dotfiles)
-
-### [hobosyo](https://github.com/hobosyo/pointfichiers/tree/hyprland-kanagawa)
-
-[![hobosyo](https://camo.githubusercontent.com/ff4f53f14b0a0c457430cc9d661eb2407740e81e17f47d3e22945b01bb941a7e/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3633353632353931373632333832383532302f313132353737333936343932313237383531372f696d6167652e706e673f77696474683d31313239266865696768743d363336)](https://github.com/hobosyo/pointfichiers/tree/hyprland-kanagawa)
+[![HeinzDev](https://camo.githubusercontent.com/a9c95046614dd2fd6c86bbb7f64ec1f609daf0fa2c0e7dad0797577b3a0a640d/68747470733a2f2f692e696d6775722e636f6d2f53345854305a462e706e67)](https://github.com/HeinzDev/Hyprland-dotfiles)
+[![HeinzDev](https://camo.githubusercontent.com/21fef46fd231d57c456c74519e651efd7b9b5a7c01caa726b789545716a7b155/68747470733a2f2f692e696d6775722e636f6d2f304c7134724f652e706e67)](https://github.com/HeinzDev/Hyprland-dotfiles)
 
 ### [justinlime](https://github.com/justinlime/dotfiles)
-[![justinlime](https://camo.githubusercontent.com/3f25d8d7e550dc4ef75310a64e42e90f6628c1436fafe6d7f23d0a1f5f23edc9/68747470733a2f2f696d6775722e636f6d2f4273576b58437a2e706e67)](https://github.com/justinlime/dotfiles)
-[![justinlime](https://camo.githubusercontent.com/053fe146d765d5624f642089a81d09b805a09c41022093fbcf0db1ec4a176309/68747470733a2f2f696d6775722e636f6d2f463467475271612e706e67)](https://github.com/justinlime/dotfiles)
+[![justinlime](https://camo.githubusercontent.com/b2bcdbd29d32ef78f3268690039296c8df493dce5a9c485364c8b3608c6bd4e8/68747470733a2f2f696d6775722e636f6d2f4273576b58437a2e706e67)](https://github.com/justinlime/dotfiles)
+[![justinlime](https://camo.githubusercontent.com/a59a4f9b6d9176c0661e6032571195556167561f12be9b8f680ea4c13e07021a/68747470733a2f2f696d6775722e636f6d2f463467475271612e706e67)](https://github.com/justinlime/dotfiles)
+[![justinlime](https://camo.githubusercontent.com/79b7556d440063a0436307dc18a9a2b0e0fee9e16df852ccb73328853abaea5f/68747470733a2f2f696d6775722e636f6d2f30306d4b4647592e706e67)](https://github.com/justinlime/dotfiles)
+
 
 ### [Knightfall01](https://github.com/Knightfall01/Hyprland-i3/tree/master)
 
@@ -587,11 +580,12 @@
 
 ### [Redyf](https://github.com/Redyf/nixdots)
 
-[![Redyf](https://github.com/Redyf/nixdots/raw/main/assets/rice.png)](https://github.com/Redyf/nixdots)
+[![Redyf](https://camo.githubusercontent.com/260db20bf3893543d226eeae330aa5ebfb8961896cb418a5f7e1e8ea70de83ba/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3933333731313936373231373132333431312f313135353230303032363438363738303030352f726963652e706e67)](https://github.com/Redyf/nixdots)
 
 ### [RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config)
 
-[![RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config/raw/main/darkmode.png)](https://github.com/RumiAxolotl/hyprland-config)
+[![RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config/raw/main/Screenshot1.png)](https://github.com/RumiAxolotl/hyprland-config)
+[![RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config/raw/main/Screenshot2.png)](https://github.com/RumiAxolotl/hyprland-config)
 
 ### [Spagett1](https://github.com/Spagett1/dotfiles)
 
@@ -617,8 +611,11 @@
 
 ### [bibjaw99](https://github.com/bibjaw99/workstation)
 
-[![bibjaw99](https://github.com/bibjaw99/workstation/raw/master/screenshots/polybar.png?raw=true)](https://github.com/bibjaw99/workstation)
 [![bibjaw99](https://github.com/bibjaw99/workstation/raw/master/screenshots/i3.png?raw=true)](https://github.com/bibjaw99/workstation)
+[![bibjaw99](https://github.com/bibjaw99/workstation/raw/master/screenshots/artix.png?raw=true)](https://github.com/bibjaw99/workstation)
+[![bibjaw99](https://github.com/bibjaw99/workstation/raw/master/screenshots/polybar_block.png?raw=true)](https://github.com/bibjaw99/workstation)
+[![bibjaw99](https://github.com/bibjaw99/workstation/raw/master/screenshots/gruvbox.png?raw=true)](https://github.com/bibjaw99/workstation)
+[![bibjaw99](https://github.com/bibjaw99/workstation/raw/master/screenshots/rofi.png?raw=true)](https://github.com/bibjaw99/workstation)
 
 ### [Blxckmage](https://github.com/Blxckmage/dotfiles)
 
@@ -646,8 +643,10 @@
 
 ### [Vallen217](https://github.com/Vallen217/dotfiles)
 
-[![Vallen217](https://github.com/Vallen217/dotfiles/raw/master/screenshots/i3_rice_1.png)](https://github.com/Vallen217/dotfiles)
-[![Vallen217](https://github.com/Vallen217/dotfiles/blob/master/screenshots/i3_rice_2.png)](https://github.com/Vallen217/dotfiles)
+[![Vallen217](https://github.com/Vallen217/dotfiles/raw/main/screenshots/desktop.png?raw=true)](https://github.com/Vallen217/dotfiles)
+[![Vallen217](https://github.com/Vallen217/dotfiles/raw/main/screenshots/neovim_1.png?raw=true)](https://github.com/Vallen217/dotfiles)
+[![Vallen217](https://github.com/Vallen217/dotfiles/raw/main/screenshots/misc.png?raw=true)](https://github.com/Vallen217/dotfiles)
+
 
 ### [wahyuwiyoko](https://github.com/wahyuwiyoko/dotfiles)
 
@@ -692,7 +691,8 @@
 
 ### [owl4ce](https://github.com/owl4ce/dotfiles/tree/ng)
 
-[![owl4ce](https://camo.githubusercontent.com/2f040ef453832974b2f6fe50be701cfeec344ae752abb32f2ad747eb665cd6ab/68747470733a2f2f692e696d6775722e636f6d2f377057673476522e6a7067)](https://github.com/owl4ce/dotfiles/tree/ng)
+[![owl4ce](https://camo.githubusercontent.com/c60a47f88abe2feeca542044554ef665ac7ed17252b5410f622348d7589249ab/68747470733a2f2f692e696d6775722e636f6d2f377057673476522e6a7067)](https://github.com/owl4ce/dotfiles/tree/ng)
+
 
 ### [YurinDoctrine](https://github.com/YurinDoctrine/.config/tree/artix)
 
@@ -711,7 +711,7 @@
 
 ### [diegorezm](https://github.com/diegorezm/dotfiles-d/tree/master)
 
-[![diegorezm](https://github.com/diegorezm/dotfiles-d/raw/master/desktop_print.png)](https://github.com/diegorezm/dotfiles-d/tree/master)
+[![diegorezm](https://github.com/diegorezm/dotfiles_old/raw/master/print.png)](https://github.com/diegorezm/dotfiles-d/tree/master)
 
 ### [Fluffy-Bean](https://github.com/Fluffy-Bean/dots)
 
@@ -725,7 +725,7 @@
 
 ### [Hamza12700](https://github.com/Hamza12700/DotFiles)
 
-[![Hamza12700](https://github.com/Hamza12700/DotFiles/raw/main/screenshots/home-screenshot.png)](https://github.com/Hamza12700/DotFiles)
+[![Hamza12700](https://github.com/Hamza12700/DotFiles/raw/main/screenshots/screenshot.png)](https://github.com/Hamza12700/DotFiles)
 
 ### [shayanaqvi](https://github.com/shayanaqvi/dotfilets)
 
@@ -756,10 +756,6 @@
 
 [![RicArch97](https://user-images.githubusercontent.com/61013287/220374702-6bce9bd2-05cd-4023-8a66-d1c6beb18cb6.png)](https://github.com/RicArch97/nixos-config)
 
-### [Sunglas](https://github.com/Sunglas/laptop-dots-wl)
-
-[![Sunglas](https://camo.githubusercontent.com/e20cd13bfb549e92533f92b5db03564fb8203bd5d185a55d9506d32406741d46/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3633353632353931373632333832383532302f313038353238333430303631303438383434322f726963655f636f6d702e706e67)](https://github.com/Sunglas/laptop-dots-wl)
-
 ### [viperML](https://github.com/viperML/dotfiles)
 
 [![viperML](https://github.com/viperML/dotfiles/raw/master/misc/img/20230129.png)](https://github.com/viperML/dotfiles)
@@ -781,10 +777,6 @@
 [![Icy-Thought](https://github.com/Icy-Thought/snowflake/raw/main/.github/assets/themes/rose-pine/xmonad.png)](https://github.com/Icy-Thought/snowflake)
 [![Icy-Thought](https://github.com/Icy-Thought/snowflake/raw/main/.github/assets/themes/rose-pine/neovim.png)](https://github.com/Icy-Thought/snowflake)
 
-### [TheMidnightShow](https://github.com/TheMidnightShow/dotfiles)
-
-[![TheMidnightShow](https://camo.githubusercontent.com/20dda8642c5cc8ac3142500eab251846d19db42d65e78f8f80dd3bfc17c979b6/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3837373235323037383532313638383132342f313130343835333236363835383235383534332f323032332d30352d30372d3133323635365f3235363078313038305f7363726f742e706e673f77696474683d393331266865696768743d333933)](https://github.com/TheMidnightShow/dotfiles)
-
 ## Yabai
 
 ### [command-z-z](https://github.com/command-z-z/dotfiles)
@@ -795,10 +787,6 @@
 ### [FelixKratz](https://github.com/FelixKratz/dotfiles)
 
 [![FelixKratz](https://user-images.githubusercontent.com/22680421/221013836-9c06a95a-d33b-48d0-bf1e-ae72e78eb6a1.png)](https://github.com/FelixKratz/dotfiles)
-
-### [QRX53](https://github.com/QRX53/dotfiles)
-
-[![QRX53](https://camo.githubusercontent.com/475595316fd93d6001d3e73a544ad7dff0ae504eec79298c6435b67740c10fb2/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3831383535323935333133323534383137392f313035323330373134343434313037333732342f53637265656e73686f745f323032322d31322d31335f61745f31322e32392e34365f504d2e706e673f77696474683d31373230266865696768743d31303735)](https://github.com/QRX53/dotfiles)
 
 ### [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles)
 
