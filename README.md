@@ -104,10 +104,10 @@
     - [qxb3](#qxb3)
     - [Redyf](#redyf)
     - [RumiAxolotl](#rumiaxolotl)
+    - [SHTRAMPANTUNC](#shtrampantunc)
     - [Spagett1](#spagett1)
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
-    - [SHTRAMPANTUNC](#shtrampantunc)
   - [i3wm](#i3wm)
     - [b1337xyz](#b1337xyz)
     - [BIBJAW](#bibjaw)
@@ -588,6 +588,10 @@
 [![RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config/raw/main/Screenshot1.png)](https://github.com/RumiAxolotl/hyprland-config)
 [![RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config/raw/main/Screenshot2.png)](https://github.com/RumiAxolotl/hyprland-config)
 
+### [SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS)
+
+[![SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS/blob/main/assets/preview.png)](https://github.com/SHTRAMPANTUNC/MyNixOS)
+
 ### [Spagett1](https://github.com/Spagett1/dotfiles)
 
 [![Spagett1](https://user-images.githubusercontent.com/77225642/240519760-99e2d1be-cc6d-42e6-a025-e39cbcf4ff3b.png)](https://github.com/Spagett1/dotfiles)
@@ -599,10 +603,6 @@
 ### [Yorubae](https://github.com/Yorubae/wayland-dotfiles)
 
 [![Yorubae](https://github.com/Yorubae/wayland-dotfiles/raw/main/preview/ss4.png)](https://github.com/Yorubae/wayland-dotfiles)
-
-### [SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS)
-
-[![SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS/blob/main/assets/preview.png)](https://github.com/SHTRAMPANTUNC/MyNixOS)
 
 ## i3wm
 
