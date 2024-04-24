@@ -107,6 +107,7 @@
     - [Spagett1](#spagett1)
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
+    - [SHTRAMPANTUNC](#shtrampantunc)
   - [i3wm](#i3wm)
     - [b1337xyz](#b1337xyz)
     - [BIBJAW](#bibjaw)
@@ -598,6 +599,10 @@
 ### [Yorubae](https://github.com/Yorubae/wayland-dotfiles)
 
 [![Yorubae](https://github.com/Yorubae/wayland-dotfiles/raw/main/preview/ss4.png)](https://github.com/Yorubae/wayland-dotfiles)
+
+### [SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS)
+
+[![SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS/blob/main/assets/preview.png)](https://github.com/SHTRAMPANTUNC/MyNixOS)
 
 ## i3wm
 
