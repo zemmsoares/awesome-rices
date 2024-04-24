@@ -104,6 +104,7 @@
     - [qxb3](#qxb3)
     - [Redyf](#redyf)
     - [RumiAxolotl](#rumiaxolotl)
+    - [SHTRAMPANTUNC](#shtrampantunc)
     - [Spagett1](#spagett1)
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
@@ -586,6 +587,10 @@
 
 [![RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config/raw/main/Screenshot1.png)](https://github.com/RumiAxolotl/hyprland-config)
 [![RumiAxolotl](https://github.com/RumiAxolotl/hyprland-config/raw/main/Screenshot2.png)](https://github.com/RumiAxolotl/hyprland-config)
+
+### [SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS)
+
+[![SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS/blob/main/assets/preview.png)](https://github.com/SHTRAMPANTUNC/MyNixOS)
 
 ### [Spagett1](https://github.com/Spagett1/dotfiles)
 
