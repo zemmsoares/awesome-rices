@@ -108,6 +108,7 @@
     - [Spagett1](#spagett1)
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
+    - [AdiKsOnDev](#adiksondev)
   - [i3wm](#i3wm)
     - [b1337xyz](#b1337xyz)
     - [BIBJAW](#bibjaw)
@@ -603,6 +604,13 @@
 ### [Yorubae](https://github.com/Yorubae/wayland-dotfiles)
 
 [![Yorubae](https://github.com/Yorubae/wayland-dotfiles/raw/main/preview/ss4.png)](https://github.com/Yorubae/wayland-dotfiles)
+
+### [AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley)
+
+[![AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley/assets/80326762/93be8d91-9f4b-416f-b622-d4719de4a926)](https://github.com/AdiKsOnDev/HyprValley)
+[![AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley/assets/80326762/11d06e28-f7b3-4cf1-98e9-a233a3c2d0f7)](https://github.com/AdiKsOnDev/HyprValley)
+[![AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley/assets/80326762/6c45a90d-fd4d-419e-98da-52aa73ac4f01)](https://github.com/AdiKsOnDev/HyprValley)
+[![AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley/assets/80326762/84a2f0b1-a922-413f-b7c8-c03e56d83458)](https://github.com/AdiKsOnDev/HyprValley)
 
 ## i3wm
 
