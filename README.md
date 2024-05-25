@@ -116,6 +116,7 @@
     - [Blxckmage](#blxckmage)
     - [bryant-the-coder](#bryant-the-coder)
     - [fathulfahmy](#fathulfahmy)
+    - [monte0x00](#monte0x00)
     - [sommaa](#sommaa)
     - [SunoBB](#sunobb)
     - [TKK13909](#tkk13909)
@@ -641,6 +642,12 @@
 ### [fathulfahmy](https://github.com/fathulfahmy/dotfiles-linux/)
 
 [![fathulfahmy](https://github.com/fathulfahmy/dotfiles-linux/raw/main/assets/screenshots/xfce-showcase.png)](https://github.com/fathulfahmy/dotfiles-linux/)
+
+### [monte0x00](https://github.com/monte0x00/dotfiles-i3wm)
+
+[![monte0x00](https://github.com/monte0x00/dotfiles-i3wm/blob/main/screenshot2.gif?raw=true)](https://github.com/monte0x00/dotfiles-i3wm)
+[![monte0x00](https://github.com/monte0x00/dotfiles-i3wm/blob/main/screenshot1.gif?raw=true)](https://github.com/monte0x00/dotfiles-i3wm)
+[![monte0x00](https://github.com/monte0x00/dotfiles-i3wm/blob/main/screenshot3.gif?raw=true)](https://github.com/monte0x00/dotfiles-i3wm)
 
 ### [sommaa](https://github.com/sommaa/Mantis)
 
