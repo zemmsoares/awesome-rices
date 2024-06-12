@@ -57,7 +57,7 @@
     - [Sinomor](#sinomor)
     - [Sophed](#sophed)
     - [star-isc](#star-isc)
-    - [sudo-harun](#sudo-harun)
+    - [sudoharun](#sudoharun)
     - [valb-mig](#valb-mig)
   - [wahyuwiyoko](#wahyuwiyoko)
     - [Weirdchupacabra](#weirdchupacabra)
@@ -360,11 +360,11 @@
 
 [![star-isc](https://user-images.githubusercontent.com/130581941/239658056-41ba8bc6-e7b2-4af7-8a1f-3daf594ef772.png)](https://github.com/star-isc/Dotfiles)
 
-### [sudo-harun](https://github.com/sudo-harun/dotfiles/tree/main)
+### [sudoharun](https://github.com/sudo-harun/dotfiles/tree/main)
 
-[![sudo-harun](https://github.com/sudo-harun/dotfiles/raw/main/assets/retroesque1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
-[![sudo-harun](https://github.com/sudo-harun/dotfiles/raw/main/assets/gruvbox1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
-[![sudo-harun](https://github.com/sudo-harun/dotfiles/raw/main/assets/generic1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
+[![sudoharun](https://github.com/sudo-harun/dotfiles/raw/main/assets/retroesque1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
+[![sudoharun](https://github.com/sudo-harun/dotfiles/raw/main/assets/gruvbox1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
+[![sudoharun](https://github.com/sudo-harun/dotfiles/raw/main/assets/generic1.png)](https://github.com/sudo-harun/dotfiles/tree/main)
 
 ### [valb-mig](https://github.com/valb-mig/.dotfiles)
 
