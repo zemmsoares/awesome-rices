@@ -98,6 +98,7 @@
     - [justinlime](#justinlime)
     - [Knightfall01](#knightfall01)
     - [MathisP75](#mathisp75)
+    - [MaxMur](#maxmur)
     - [maxtaran2010](#maxtaran2010)
     - [Narmis-E](#narmis-e-1)
     - [ozwaldorf](#ozwaldorf)
@@ -546,6 +547,10 @@
 ### [MathisP75](https://github.com/MathisP75/summer-day-and-night)
 
 [![MathisP75](https://github.com/MathisP75/summer-day-and-night/raw/main/screenshots/day-night.png)](https://github.com/MathisP75/summer-day-and-night)
+
+### [MaxMur](https://github.com/TheMaxMur/NixOS-Configuration)
+
+[![MaxMur](https://github.com/TheMaxMur/NixOS-Configuration/blob/master/assets/github/desktop0.png)](https://github.com/TheMaxMur/NixOS-Configuration)
 
 ### [maxtaran2010](https://github.com/maxtaran2010/hyprland-rice)
 
