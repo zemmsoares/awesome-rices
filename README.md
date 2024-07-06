@@ -59,6 +59,7 @@
     - [star-isc](#star-isc)
     - [sudoharun](#sudoharun)
     - [valb-mig](#valb-mig)
+    - [XADE](#xade)
   - [wahyuwiyoko](#wahyuwiyoko)
     - [Weirdchupacabra](#weirdchupacabra)
     - [zoddDev](#zodddev)
@@ -370,6 +371,10 @@
 ### [valb-mig](https://github.com/valb-mig/.dotfiles)
 
 [![valb-mig](https://github.com/valb-mig/.dotfiles/raw/main/.assets/dots.png)](https://github.com/valb-mig/.dotfiles)
+
+### [XADE](https://github.com/imxade/dotbin)
+
+[![XADE](https://codeberg.org/XADE/dotbin/wiki/raw/assets/wall1.png)](https://github.com/imxade/dotbin)
 
 ## [wahyuwiyoko](https://github.com/wahyuwiyoko/dotfiles)
 
