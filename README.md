@@ -14,6 +14,7 @@
 - [Table of Contents](#table-of-contents)
 - [Rices](#rices)
   - [AwesomeWM](#awesomewm)
+    - [0xTux](#0xtux)
     - [alljavi](#alljavi)
     - [AlphaTechnolog](#alphatechnolog)
     - [Amitabha37377](#amitabha37377)
@@ -168,6 +169,17 @@
 # Rices
 
 ## AwesomeWM
+
+### [0xTux](https://github.com/0xTux/nixos-config)
+
+[![0xTux](https://raw.githubusercontent.com/0xTux/nixos-config/main/assets/poster.png)](https://github.com/0xTux/nixos-config)
+[![0xtux](https://raw.githubusercontent.com/0xTux/nixos-config/main/assets/desktop.png)](https://github.com/0xTux/nixos-config)
+[![0xtux](https://raw.githubusercontent.com/0xTux/nixos-config/main/assets/workflow.png)](https://github.com/0xTux/nixos-config)
+[![0xtux](https://raw.githubusercontent.com/0xTux/nixos-config/main/assets/neovim.png)](https://github.com/0xTux/nixos-config)
+[![0xtux](https://raw.githubusercontent.com/0xTux/nixos-config/main/assets/floating-term-neovim.png)](https://github.com/0xTux/nixos-config)
+[![0xtux](https://raw.githubusercontent.com/0xTux/nixos-config/main/assets/lazygit.png)](https://github.com/0xTux/nixos-config)
+[![0xtux](https://raw.githubusercontent.com/0xTux/nixos-config/main/assets/telescope.png)](https://github.com/0xTux/nixos-config)
+[![0xtux](https://raw.githubusercontent.com/0xTux/nixos-config/main/assets/firefox.png)](https://github.com/0xTux/nixos-config)
 
 ### [alljavi](https://github.com/AllJavi/tartarus-dotfiles)
 
