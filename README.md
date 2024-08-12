@@ -352,6 +352,11 @@
 
 [![Narmis-E](https://github.com/Narmis-E/bspwm-catppuccin/blob/main/images/rice-complete.png?raw=true)](https://github.com/Narmis-E/bspwm-catppuccin)
 
+### [onlyvip](https://github.com/onlyvip/dopedots)
+
+[![onlyvip](https://github.com/onlyvip/dopedots/raw/master/.screenshot/1.png)](https://github.com/onlyvip/dopedots)
+[![onlyvip](https://github.com/onlyvip/dopedots/raw/master/.screenshot/3.png)](https://github.com/onlyvip/dopedots)
+
 ### [probe2k](https://github.com/probe2k/bspwm_rice)
 
 [![probe2k](https://camo.githubusercontent.com/3227d6a4b2ed720522f7f0882f581b2dcfb46505d9eee1e36bdd3f57f1ac71f4/68747470733a2f2f692e726564642e69742f3533377a7366786d34376837312e706e67)](https://github.com/probe2k/bspwm_rice)
