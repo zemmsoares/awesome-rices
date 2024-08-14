@@ -53,6 +53,7 @@
     - [justleoo](#justleoo)
     - [kabinspace](#kabinspace)
     - [Narmis-E](#narmis-e)
+    - [onlyvip](#onlyvip)
     - [probe2k](#probe2k)
     - [rklyz](#rklyz-1)
     - [Sinomor](#sinomor)
@@ -351,6 +352,11 @@
 ### [Narmis-E](https://github.com/Narmis-E/bspwm-catppuccin)
 
 [![Narmis-E](https://github.com/Narmis-E/bspwm-catppuccin/blob/main/images/rice-complete.png?raw=true)](https://github.com/Narmis-E/bspwm-catppuccin)
+
+### [onlyvip](https://github.com/onlyvip/dopedots)
+
+[![onlyvip](https://github.com/onlyvip/dopedots/raw/master/.screenshot/1.png)](https://github.com/onlyvip/dopedots)
+[![onlyvip](https://github.com/onlyvip/dopedots/raw/master/.screenshot/3.png)](https://github.com/onlyvip/dopedots)
 
 ### [probe2k](https://github.com/probe2k/bspwm_rice)
 
