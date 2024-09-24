@@ -113,6 +113,7 @@
     - [Spagett1](#spagett1)
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
+    - [Lonewolf4713](#Lonewolf4713)
   - [i3wm](#i3wm)
     - [b1337xyz](#b1337xyz)
     - [BIBJAW](#bibjaw)
@@ -155,6 +156,7 @@
     - [RicArch97](#ricarch97)
     - [viperML](#viperml)
     - [wahyuwiyoko](#wahyuwiyoko-2)
+    - [Lonewolf4713](#Lonewolf4713)
   - [Xfce](#xfce)
     - [fathulfahmy](#fathulfahmy-1)
   - [Xmonad](#xmonad)
@@ -641,6 +643,30 @@
 
 [![Yorubae](https://github.com/Yorubae/wayland-dotfiles/raw/main/preview/ss4.png)](https://github.com/Yorubae/wayland-dotfiles)
 
+### [Lonewolf4713](https://github.com/LoneWolf4713/aeronix-dotfiles)
+[![LoneWolf4713](https://i.imgur.com/GRsMD0R.png)](https://github.com/LoneWolf4713/aeronix-dotfiles)
+[![LoneWolf4713](https://i.imgur.com/vJGFQl0.png)](https://github.com/LoneWolf4713/aeronix-dotfiles)
+[![LoneWolf4713](https://i.imgur.com/EpQVw39.png)](https://github.com/LoneWolf4713/aeronix-dotfiles)
+[![LoneWolf4713](https://i.imgur.com/mWrGOX7.png)](https://github.com/LoneWolf4713/aeronix-dotfiles)
+
+### [Lonewolf4713](https://github.com/LoneWolf4713/seraphic.dotfiles)
+[![LoneWolf4713](https://i.imgur.com/eTHIX37.gif)](https://github.com/LoneWolf4713/seraphic.dotfiles)
+[![LoneWolf4713](https://i.imgur.com/CmAtp5N.png)](https://github.com/LoneWolf4713/seraphic.dotfiles)
+[![LoneWolf4713](https://i.imgur.com/GzBBlOk.png)](https://github.com/LoneWolf4713/seraphic.dotfiles)
+[![LoneWolf4713](https://i.imgur.com/pAHJ642.gif)](https://github.com/LoneWolf4713/seraphic.dotfiles)
+
+### [Lonewolf4713](https://github.com/LoneWolf4713/blue-monday.dots)
+[![LoneWolf4713](https://i.imgur.com/jueMHR9.png)](https://github.com/LoneWolf4713/blue-monday.dots)
+[![LoneWolf4713](https://i.imgur.com/n1xErEU.png)](https://github.com/LoneWolf4713/blue-monday.dots)
+[![LoneWolf4713](https://i.imgur.com/NfqSiEa.png)](https://github.com/LoneWolf4713/blue-monday.dots)
+
+### [Lonewolf4713](https://github.com/LoneWolf4713/auspicious-dots)
+[![LoneWolf4713](https://i.imgur.com/2GHSpXr.png)](https://github.com/LoneWolf4713/auspicious-dots)
+[![LoneWolf4713](https://i.imgur.com/66rlfYd.png)](https://github.com/LoneWolf4713/auspicious-dots)
+[![LoneWolf4713](https://i.imgur.com/iuRoI4O.png)](https://github.com/LoneWolf4713/auspicious-dots)
+
+
+
 ## i3wm
 
 ### [b1337xyz](https://github.com/b1337xyz/config/tree/xp)
@@ -810,6 +836,11 @@
 ### [wahyuwiyoko](https://github.com/wahyuwiyoko/dotfiles)
 
 [![wahyuwiyoko](https://raw.githubusercontent.com/wahyuwiyoko/dotfiles/main/screenshots/sway.png)](https://github.com/wahyuwiyoko/dotfiles)
+
+### [Lonewolf4713](https://github.com/LoneWolf4713/new-wave)
+[![LoneWolf4713](https://i.imgur.com/UB5x5lC.png)](https://github.com/LoneWolf4713/new-wave)
+[![LoneWolf4713](https://i.imgur.com/49nAd8F.png)](https://github.com/LoneWolf4713/new-wave)
+[![LoneWolf4713](https://i.imgur.com/J0c5YM7.png)](https://github.com/LoneWolf4713/new-wave)
 
 ## Xfce
 
