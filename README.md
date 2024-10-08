@@ -114,6 +114,7 @@
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
     - [Lonewolf4713](#Lonewolf4713)
+    - [shub39](#shub39)
   - [i3wm](#i3wm)
     - [b1337xyz](#b1337xyz)
     - [BIBJAW](#bibjaw)
@@ -665,7 +666,11 @@
 [![LoneWolf4713](https://i.imgur.com/66rlfYd.png)](https://github.com/LoneWolf4713/auspicious-dots)
 [![LoneWolf4713](https://i.imgur.com/iuRoI4O.png)](https://github.com/LoneWolf4713/auspicious-dots)
 
-
+### [shub39](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/1.png)](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/2.png)](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/3.png)](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/4.png)](https://github.com/shub39/dotfiles)
 
 ## i3wm
 
