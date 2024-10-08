@@ -110,6 +110,7 @@
     - [Redyf](#redyf)
     - [RumiAxolotl](#rumiaxolotl)
     - [SHTRAMPANTUNC](#shtrampantunc)
+    - [shub39](#shub39)
     - [Spagett1](#spagett1)
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
@@ -630,6 +631,12 @@
 ### [SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS)
 
 [![SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS/blob/main/assets/preview.png)](https://github.com/SHTRAMPANTUNC/MyNixOS)
+
+### [shub39](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/1.png)](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/2.png)](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/3.png)](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/4.png)](https://github.com/shub39/dotfiles)
 
 ### [Spagett1](https://github.com/Spagett1/dotfiles)
 
