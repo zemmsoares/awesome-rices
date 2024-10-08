@@ -110,11 +110,11 @@
     - [Redyf](#redyf)
     - [RumiAxolotl](#rumiaxolotl)
     - [SHTRAMPANTUNC](#shtrampantunc)
+    - [shub39](#shub39)
     - [Spagett1](#spagett1)
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
     - [Lonewolf4713](#Lonewolf4713)
-    - [shub39](#shub39)
   - [i3wm](#i3wm)
     - [b1337xyz](#b1337xyz)
     - [BIBJAW](#bibjaw)
@@ -632,6 +632,12 @@
 
 [![SHTRAMPANTUNC](https://github.com/SHTRAMPANTUNC/MyNixOS/blob/main/assets/preview.png)](https://github.com/SHTRAMPANTUNC/MyNixOS)
 
+### [shub39](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/1.png)](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/2.png)](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/3.png)](https://github.com/shub39/dotfiles)
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/4.png)](https://github.com/shub39/dotfiles)
+
 ### [Spagett1](https://github.com/Spagett1/dotfiles)
 
 [![Spagett1](https://user-images.githubusercontent.com/77225642/240519760-99e2d1be-cc6d-42e6-a025-e39cbcf4ff3b.png)](https://github.com/Spagett1/dotfiles)
@@ -666,11 +672,7 @@
 [![LoneWolf4713](https://i.imgur.com/66rlfYd.png)](https://github.com/LoneWolf4713/auspicious-dots)
 [![LoneWolf4713](https://i.imgur.com/iuRoI4O.png)](https://github.com/LoneWolf4713/auspicious-dots)
 
-### [shub39](https://github.com/shub39/dotfiles)
-[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/1.png)](https://github.com/shub39/dotfiles)
-[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/2.png)](https://github.com/shub39/dotfiles)
-[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/3.png)](https://github.com/shub39/dotfiles)
-[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/4.png)](https://github.com/shub39/dotfiles)
+
 
 ## i3wm
 
