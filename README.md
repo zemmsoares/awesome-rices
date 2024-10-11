@@ -704,10 +704,10 @@
 
 [![fathulfahmy](https://github.com/fathulfahmy/dotfiles-linux/raw/main/assets/screenshots/xfce-showcase.png)](https://github.com/fathulfahmy/dotfiles-linux/)
 
-### [monte0x00](https://github.com/monte0x00/dotfiles-i3wm)
-[![monte0x00](https://github.com/monte0x00/dotfiles-i3wm/blob/main/screenshot2.gif?raw=true)](https://github.com/monte0x00/dotfiles-i3wm)
-[![monte0x00](https://github.com/monte0x00/dotfiles-i3wm/blob/main/screenshot1.gif?raw=true)](https://github.com/monte0x00/dotfiles-i3wm)
-[![monte0x00](https://github.com/monte0x00/dotfiles-i3wm/blob/main/screenshot3.gif?raw=true)](https://github.com/monte0x00/dotfiles-i3wm)
+### [monte0x00](https://github.com/monte0x00/i3-dotfiles)
+[![monte0x00](https://github.com/monte0x00/i3-dotfiles/blob/main/screenshot1.png)](https://github.com/monte0x00/i3-dotfiles)
+[![monte0x00](https://github.com/monte0x00/i3-dotfiles/blob/main/screenshot2.png)](https://github.com/monte0x00/i3-dotfiles)
+[![monte0x00](https://github.com/monte0x00/i3-dotfiles/blob/main/wp.png)](https://github.com/monte0x00/i3-dotfiles)
 
 ### [sommaa](https://github.com/sommaa/Mantis)
 
