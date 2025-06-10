@@ -80,6 +80,7 @@
     - [nuxshed](#nuxshed)
     - [scourii](#scourii)
   - [Hyprland](#hyprland)
+    - [ad1822](#ad1822)
     - [1amSimp1e](#1amsimp1e-1)
     - [AdiKsOnDev](#adiksondev)
     - [cafreo](#cafreo)
@@ -458,8 +459,14 @@
 [![scourii](https://user-images.githubusercontent.com/64178604/119293263-0b549500-bc20-11eb-8a50-8f1fff58518d.png)](https://github.com/scourii/.dotfiles/tree/main)
 [![scourii](https://user-images.githubusercontent.com/64178604/119293354-3f2fba80-bc20-11eb-865a-5ba0191b4fc2.png)](https://github.com/scourii/.dotfiles/tree/main)
 
-
 ## Hyprland
+
+### [ad1822](https://github.com/ad1822/hyprdots)
+
+[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/main.png)](https://github.com/ad1822/hyprdots)
+[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/launcher.png)](https://github.com/ad1822/hyprdots)[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/powermenu.png)](https://github.com/ad1822/hyprdots)
+[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/btop.png)](https://github.com/ad1822/hyprdots)
+[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/yazi.png)](https://github.com/ad1822/hyprdots)
 
 ### [1amSimp1e](https://github.com/1amSimp1e/dots)
 
