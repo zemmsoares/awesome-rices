@@ -134,6 +134,7 @@
     - [gibranlp](#gibranlp)
     - [Hamza12700](#hamza12700)
     - [shayanaqvi](#shayanaqvi)
+    - [XADE](#xade)
   - [Riverwm](#riverwm)
     - [theCode-Breaker](#thecode-breaker)
   - [Sway](#sway)
@@ -742,6 +743,10 @@
 ### [shayanaqvi](https://github.com/shayanaqvi/dotfilets)
 
 [![shayanaqvi](https://github.com/shayanaqvi/dotfilets/raw/main/screenshots/desktop.png)](https://github.com/shayanaqvi/dotfilets)
+
+### [XADE](https://github.com/imxade/dotbin)
+
+[![XADE](https://codeberg.org/XADE/dotbin/wiki/raw/assets/terminal.png)](https://github.com/imxade/dotbin)
 
 ## Riverwm
 
