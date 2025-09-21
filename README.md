@@ -101,6 +101,7 @@
     - [prasanthrangan](#prasanthrangan)
     - [qxb3](#qxb3)
     - [shub39](#shub39)
+    - [Sly-Harvey](#sly-harvey)
     - [Spagett1](#spagett1)
     - [Stetsed](#stetsed)
     - [Yorubae](#yorubae)
@@ -589,6 +590,13 @@
 [![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/2.png)](https://github.com/shub39/dotfiles)
 [![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/3.png)](https://github.com/shub39/dotfiles)
 [![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/4.png)](https://github.com/shub39/dotfiles)
+
+### [Sly-Harvey](https://github.com/Sly-Harvey/NixOS)
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview1.png)](https://github.com/Sly-Harvey/NixOS)
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview2.png)](https://github.com/Sly-Harvey/NixOS)
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview3.png)](https://github.com/Sly-Harvey/NixOS)
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview4.png)](https://github.com/Sly-Harvey/NixOS)
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview5.png)](https://github.com/Sly-Harvey/NixOS)
 
 ### [Spagett1](https://github.com/Spagett1/dotfiles)
 
