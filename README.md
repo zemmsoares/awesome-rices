@@ -86,6 +86,7 @@
     - [cafreo](#cafreo)
     - [command-z-z](#command-z-z)
     - [conrad-mo](#conrad-mo)
+    - [Blxckmage](#blxckmage)
     - [dankdezpair](#dankdezpair)
     - [debuggyo](#debuggyo)
     - [dragoshr1234](#dragoshr1234)
@@ -110,7 +111,6 @@
     - [b1337xyz](#b1337xyz)
     - [BIBJAW](#bibjaw)
     - [bibjaw99](#bibjaw99)
-    - [Blxckmage](#blxckmage)
     - [bryant-the-coder](#bryant-the-coder)
     - [fathulfahmy](#fathulfahmy)
     - [sommaa](#sommaa)
@@ -494,6 +494,10 @@
 
 [![conrad-mo](https://github.com/conrad-mo/hyprland-dot/raw/piano/screenshot.png?raw=true)](https://github.com/conrad-mo/hyprland-dot)
 
+### [Blxckmage](https://github.com/Blxckmage/dotfiles)
+
+[![Blxckmage](https://github.com/Blxckmage/dotfiles/blob/main/.assets/showcase.png?raw=true)](https://github.com/Blxckmage/dotfiles)
+
 ### [dankdezpair](https://github.com/dankdezpair/hypr.files-V2)
 
 [![dankdezpair](https://user-images.githubusercontent.com/55618993/240282779-89ad1f68-1e9a-4c46-b3d0-3b3a43d4b9b8.png)](https://github.com/dankdezpair/hypr.files-V2)
@@ -651,10 +655,6 @@
 [![bibjaw99](https://github.com/bibjaw99/workstation/blob/master/screenshots/waybar_floating.png?raw=true)](https://github.com/bibjaw99/workstation)
 [![bibjaw99](https://github.com/bibjaw99/workstation/blob/master/screenshots/rofi_1.png?raw=true)](https://github.com/bibjaw99/workstation)
 [![bibjaw99](https://github.com/bibjaw99/workstation/blob/master/screenshots/rofi_2.png?raw=true)](https://github.com/bibjaw99/workstation)
-
-### [Blxckmage](https://github.com/Blxckmage/dotfiles)
-
-[![Blxckmage](https://github.com/Blxckmage/dotfiles/blob/main/.assets/picture-1.png?raw=true)](https://github.com/Blxckmage/dotfiles)
 
 ### [bryant-the-coder](https://github.com/bryant-the-coder/dotfiles)
 
