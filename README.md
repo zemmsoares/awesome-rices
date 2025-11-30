@@ -80,6 +80,7 @@
     - [nuxshed](#nuxshed)
     - [scourii](#scourii)
   - [Hyprland](#hyprland)
+    - [xZepyx](https://github.com/xZepyx/aelyx-shell)
     - [ad1822](#ad1822)
     - [1amSimp1e](#1amsimp1e-1)
     - [AdiKsOnDev](#adiksondev)
