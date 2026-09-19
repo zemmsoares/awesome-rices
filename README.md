@@ -13,6 +13,8 @@
 
 - [Table of Contents](#table-of-contents)
 - [Rices](#rices)
+  - [ApolloShell](#apolloshell)
+    - [Silvertree2010](#silvertree2010)
   - [AwesomeWM](#awesomewm)
     - [0xTux](#0xtux)
     - [alljavi](#alljavi)
@@ -159,6 +161,12 @@
 - [License](#license)
 
 # Rices
+
+## ApolloShell
+
+### [Silvertree2010](https://github.com/Silvertree2010/ApolloShell)
+
+[![Silvertree2010](https://github.com/Silvertree2010/ApolloShell/raw/main/docs/images/hero.png)](https://github.com/Silvertree2010/ApolloShell)
 
 ## AwesomeWM
 
